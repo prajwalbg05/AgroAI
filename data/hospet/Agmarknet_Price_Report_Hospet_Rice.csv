@@ -1,0 +1,109 @@
+﻿Sl no.,District Name,Market Name,Commodity,Variety,Grade,Min Price (Rs./Quintal),Max Price (Rs./Quintal),Modal Price (Rs./Quintal),Price Date
+1,Bellary,Hospet,Rice,Broken Rice,FAQ,1200,1220,1206,07 Jul 2020
+2,Bellary,Hospet,Rice,Broken Rice,FAQ,1400,1400,1400,13 Jul 2020
+3,Bellary,Hospet,Rice,Broken Rice,FAQ,1500,1700,1600,16 Dec 2015
+4,Bellary,Hospet,Rice,Broken Rice,FAQ,1700,1700,1700,13 Feb 2016
+5,Bellary,Hospet,Rice,Broken Rice,FAQ,1700,1700,1700,16 Jan 2016
+6,Bellary,Hospet,Rice,Broken Rice,FAQ,1750,1750,1750,05 Sep 2017
+7,Bellary,Hospet,Rice,Broken Rice,FAQ,1784,2353,2068,06 Jun 2016
+8,Bellary,Hospet,Rice,Broken Rice,FAQ,1800,1800,1800,04 Jan 2017
+9,Bellary,Hospet,Rice,Broken Rice,FAQ,1820,1840,1820,22 Sep 2015
+10,Bellary,Hospet,Rice,Broken Rice,FAQ,1900,1900,1900,27 Apr 2016
+11,Bellary,Hospet,Rice,Broken Rice,FAQ,1950,1950,1950,21 Mar 2017
+12,Bellary,Hospet,Rice,Broken Rice,FAQ,1950,1961,1960,07 Mar 2017
+13,Bellary,Hospet,Rice,Broken Rice,FAQ,1960,2205,2058,02 Nov 2016
+14,Bellary,Hospet,Rice,Broken Rice,FAQ,1960,2352,2254,04 Nov 2016
+15,Bellary,Hospet,Rice,Broken Rice,FAQ,2000,2000,2000,17 Jan 2017
+16,Bellary,Hospet,Rice,Broken Rice,FAQ,2100,2200,2200,03 Aug 2016
+17,Bellary,Hospet,Rice,Broken Rice,FAQ,2100,2750,2450,04 Mar 2020
+18,Bellary,Hospet,Rice,Broken Rice,FAQ,2120,2125,2125,04 Jan 2020
+19,Bellary,Hospet,Rice,Broken Rice,FAQ,2121,2211,2210,12 Mar 2019
+20,Bellary,Hospet,Rice,Broken Rice,FAQ,2150,2400,2400,18 Dec 2019
+21,Bellary,Hospet,Rice,Broken Rice,FAQ,2157,2255,2206,12 Dec 2016
+22,Bellary,Hospet,Rice,Broken Rice,FAQ,2250,2250,2250,08 Mar 2017
+23,Bellary,Hospet,Rice,Broken Rice,FAQ,2461,2470,2461,09 Dec 2019
+24,Bellary,Hospet,Rice,Broken Rice,Medium,1550,1640,1600,02 Mar 2016
+25,Bellary,Hospet,Rice,Broken Rice,Medium,1645,1882,1725,11 May 2016
+26,Bellary,Hospet,Rice,Broken Rice,Medium,1650,1882,1784,24 Feb 2016
+27,Bellary,Hospet,Rice,Broken Rice,Medium,1667,1814,1784,31 May 2016
+28,Bellary,Hospet,Rice,Broken Rice,Medium,1670,1670,1670,30 Apr 2016
+29,Bellary,Hospet,Rice,Broken Rice,Medium,1680,1872,1750,16 Mar 2016
+30,Bellary,Hospet,Rice,Broken Rice,Medium,1700,1700,1700,16 Jan 2018
+31,Bellary,Hospet,Rice,Broken Rice,Medium,1730,1730,1730,18 Jul 2016
+32,Bellary,Hospet,Rice,Broken Rice,Medium,1750,1750,1750,05 Jul 2016
+33,Bellary,Hospet,Rice,Broken Rice,Medium,1771,1863,1814,10 May 2017
+34,Bellary,Hospet,Rice,Broken Rice,Medium,1784,1784,1784,18 Apr 2016
+35,Bellary,Hospet,Rice,Broken Rice,Medium,1784,1882,1800,15 Feb 2016
+36,Bellary,Hospet,Rice,Broken Rice,Medium,1784,1912,1850,25 Apr 2016
+37,Bellary,Hospet,Rice,Broken Rice,Medium,1800,1800,1800,06 Mar 2018
+38,Bellary,Hospet,Rice,Broken Rice,Medium,1814,2059,2059,24 May 2017
+39,Bellary,Hospet,Rice,Broken Rice,Medium,1961,2255,1961,15 Feb 2017
+40,Bellary,Hospet,Rice,Broken Rice,Medium,1985,1985,1985,14 Jun 2016
+41,Bellary,Hospet,Rice,Broken Rice,Medium,2000,2000,2000,30 Aug 2016
+42,Bellary,Hospet,Rice,Broken Rice,Medium,2100,2100,2100,22 Oct 2016
+43,Bellary,Hospet,Rice,Broken Rice,Medium,2104,2191,2145,25 Mar 2017
+44,Bellary,Hospet,Rice,Broken Rice,Medium,2150,2150,2150,12 May 2019
+45,Bellary,Hospet,Rice,Broken Rice,Medium,2166,2206,2167,18 Oct 2016
+46,Bellary,Hospet,Rice,Broken Rice,Medium,2200,2250,2200,06 Jul 2016
+47,Bellary,Hospet,Rice,Broken Rice,Medium,2201,2201,2201,03 May 2020
+48,Bellary,Hospet,Rice,Broken Rice,Medium,2400,2400,2400,16 Feb 2020
+49,Bellary,Hospet,Rice,EMR Boiled,Medium,2451,2451,2451,07 Mar 2017
+50,Bellary,Hospet,Rice,Masuri,FAQ,1496,1496,1496,19 Apr 2017
+51,Bellary,Hospet,Rice,Masuri,Medium,1632,1632,1632,16 Sep 2015
+52,Bellary,Hospet,Rice,Masuri,Medium,5600,5600,5600,21 Oct 2023
+53,Bellary,Hospet,Rice,Medium,FAQ,1520,1600,1520,29 May 2020
+54,Bellary,Hospet,Rice,Medium,FAQ,2700,2850,2801,15 May 2020
+55,Bellary,Hospet,Rice,Medium,FAQ,2825,2825,2825,02 Mar 2016
+56,Bellary,Hospet,Rice,Medium,FAQ,3500,3600,3500,28 Mar 2018
+57,Bellary,Hospet,Rice,Medium,Medium,2450,2450,2450,05 Aug 2019
+58,Bellary,Hospet,Rice,Medium,Medium,3600,3600,3600,03 Nov 2023
+59,Bellary,Hospet,Rice,Pusa Basmati Raw (New),FAQ,2266,2266,2266,03 Nov 2015
+60,Bellary,Hospet,Rice,Pusa Basmati Raw (New),FAQ,3823,4608,4118,25 Apr 2016
+61,Bellary,Hospet,Rice,Pusa Basmati Raw (New),FAQ,4000,4000,4000,20 Jun 2016
+62,Bellary,Hospet,Rice,Pusa Basmati Raw (New),FAQ,4117,4608,4250,06 Apr 2016
+63,Bellary,Hospet,Rice,Pusa Basmati Raw (New),FAQ,4200,4200,4200,16 Jun 2020
+64,Bellary,Hospet,Rice,Pusa Basmati Raw (New),FAQ,4608,4608,4608,31 May 2016
+65,Bellary,Hospet,Rice,Pusa Basmati Raw (New),Medium,2000,2100,2050,29 Jun 2016
+66,Bellary,Hospet,Rice,Pusa Basmati Raw (New),Medium,3627,4804,4200,06 Jun 2016
+67,Bellary,Hospet,Rice,Pusa Basmati Raw (New),Medium,3725,4216,3823,15 Feb 2016
+68,Bellary,Hospet,Rice,Pusa Basmati Raw (New),Medium,3800,3800,3800,22 Jun 2016
+69,Bellary,Hospet,Rice,Pusa Basmati Raw (New),Medium,3900,4500,4400,12 Dec 2016
+70,Bellary,Hospet,Rice,Pusa Basmati Raw (New),Medium,4000,4000,4000,03 Aug 2016
+71,Bellary,Hospet,Rice,Pusa Basmati Raw (New),Medium,4020,5392,4550,10 May 2017
+72,Bellary,Hospet,Rice,Pusa Basmati Raw (Old),FAQ,1733,1733,1733,03 Nov 2015
+73,Bellary,Hospet,Rice,Pusa Basmati Raw (Old),FAQ,2400,3240,2763,16 Jun 2020
+74,Bellary,Hospet,Rice,Pusa Basmati Raw (Old),FAQ,2402,2402,2402,06 Apr 2016
+75,Bellary,Hospet,Rice,Pusa Basmati Raw (Old),FAQ,2451,5000,3235,07 Mar 2017
+76,Bellary,Hospet,Rice,Pusa Basmati Raw (Old),FAQ,2700,3190,3021,07 Jul 2020
+77,Bellary,Hospet,Rice,Pusa Basmati Raw (Old),FAQ,2850,2850,2850,31 Dec 2015
+78,Bellary,Hospet,Rice,Pusa Basmati Raw (Old),FAQ,3000,3000,3000,10 Oct 2015
+79,Bellary,Hospet,Rice,Pusa Basmati Raw (Old),FAQ,3100,3100,3100,02 Dec 2015
+80,Bellary,Hospet,Rice,Pusa Basmati Raw (Old),FAQ,3100,3200,3150,13 Feb 2016
+81,Bellary,Hospet,Rice,Pusa Basmati Raw (Old),FAQ,3137,4117,4100,18 Apr 2016
+82,Bellary,Hospet,Rice,Pusa Basmati Raw (Old),FAQ,3200,3200,3200,28 Dec 2015
+83,Bellary,Hospet,Rice,Pusa Basmati Raw (Old),FAQ,3250,3250,3250,18 Dec 2015
+84,Bellary,Hospet,Rice,Pusa Basmati Raw (Old),FAQ,3320,3320,3320,15 Mar 2017
+85,Bellary,Hospet,Rice,Pusa Basmati Raw (Old),FAQ,3333,3333,3333,31 May 2016
+86,Bellary,Hospet,Rice,Pusa Basmati Raw (Old),FAQ,3400,3400,3400,17 Jan 2017
+87,Bellary,Hospet,Rice,Pusa Basmati Raw (Old),FAQ,3400,4000,3800,31 Mar 2017
+88,Bellary,Hospet,Rice,Pusa Basmati Raw (Old),FAQ,3725,5490,4118,24 May 2017
+89,Bellary,Hospet,Rice,Pusa Basmati Raw (Old),Medium,2400,3200,3000,16 Dec 2015
+90,Bellary,Hospet,Rice,Pusa Basmati Raw (Old),Medium,2450,2500,2500,06 Nov 2015
+91,Bellary,Hospet,Rice,Pusa Basmati Raw (Old),Medium,2450,3725,3175,16 Mar 2016
+92,Bellary,Hospet,Rice,Pusa Basmati Raw (Old),Medium,2521,2522,2521,04 Apr 2017
+93,Bellary,Hospet,Rice,Pusa Basmati Raw (Old),Medium,2825,2825,2825,20 Jan 2016
+94,Bellary,Hospet,Rice,Pusa Basmati Raw (Old),Medium,2846,2846,2846,21 Mar 2017
+95,Bellary,Hospet,Rice,Pusa Basmati Raw (Old),Medium,2925,2925,2925,14 Dec 2015
+96,Bellary,Hospet,Rice,Pusa Basmati Raw (Old),Medium,3000,3000,3000,06 Sep 2015
+97,Bellary,Hospet,Rice,Pusa Basmati Raw (Old),Medium,3000,3825,3200,24 Feb 2016
+98,Bellary,Hospet,Rice,Pusa Basmati Raw (Old),Medium,3030,3030,3030,19 Oct 2016
+99,Bellary,Hospet,Rice,Pusa Basmati Raw (Old),Medium,3137,3627,3339,25 Apr 2016
+100,Bellary,Hospet,Rice,Pusa Basmati Raw (Old),Medium,3200,3200,3200,15 Dec 2015
+101,Bellary,Hospet,Rice,Pusa Basmati Raw (Old),Medium,3300,3300,3300,08 Mar 2017
+102,Bellary,Hospet,Rice,Pusa Basmati Raw (Old),Medium,3300,3300,3300,23 Sep 2015
+103,Bellary,Hospet,Rice,Pusa Basmati Raw (Old),Medium,3300,3300,3300,29 Jul 2016
+104,Bellary,Hospet,Rice,Pusa Basmati Raw (Old),Medium,3333,4392,3800,11 May 2016
+105,Bellary,Hospet,Rice,Pusa Basmati Raw (Old),Medium,3400,3400,3400,10 Feb 2016
+106,Bellary,Hospet,Rice,Pusa Basmati Raw (Old),Medium,3600,3600,3600,11 Mar 2020
+107,Bellary,Hospet,Rice,Pusa Basmati Raw (Old),Medium,3600,3600,3600,16 Jan 2016
+108,Bellary,Hospet,Rice,Pusa Basmati Raw (Old),Medium,3850,3850,3850,09 Jan 2019

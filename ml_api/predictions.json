@@ -1,0 +1,104 @@
+[
+  {
+    "market": "davangere",
+    "crop": "Cotton",
+    "forecast": 5862.91552734375,
+    "error": null
+  },
+  {
+    "market": "davangere",
+    "crop": "Maize",
+    "forecast": 1581.44580078125,
+    "error": null
+  },
+  {
+    "market": "davangere",
+    "crop": "Ragi",
+    "forecast": 2185.861572265625,
+    "error": null
+  },
+  {
+    "market": "davangere",
+    "crop": "Rice",
+    "forecast": 4491.63916015625,
+    "error": null
+  },
+  {
+    "market": "davangere",
+    "crop": "Tomato",
+    "forecast": 1836.95654296875,
+    "error": null
+  },
+  {
+    "market": "gangavathi",
+    "crop": "Cotton",
+    "forecast": 4812.09619140625,
+    "error": null
+  },
+  {
+    "market": "gangavathi",
+    "crop": "Maize",
+    "forecast": 1655.473876953125,
+    "error": null
+  },
+  {
+    "market": "gangavathi",
+    "crop": "Ragi",
+    "forecast": null,
+    "error": "Model/scaler missing"
+  },
+  {
+    "market": "gangavathi",
+    "crop": "Rice",
+    "forecast": 4541.525390625,
+    "error": null
+  },
+  {
+    "market": "HBhalli",
+    "crop": "Cotton",
+    "forecast": null,
+    "error": "Model/scaler missing"
+  },
+  {
+    "market": "HBhalli",
+    "crop": "Maize",
+    "forecast": 1383.732177734375,
+    "error": null
+  },
+  {
+    "market": "HBhalli",
+    "crop": "Ragi",
+    "forecast": 1807.6849365234375,
+    "error": null
+  },
+  {
+    "market": "HBhalli",
+    "crop": "Rice",
+    "forecast": null,
+    "error": "Model/scaler missing"
+  },
+  {
+    "market": "hospet",
+    "crop": "Maize",
+    "forecast": null,
+    "error": "Model/scaler missing"
+  },
+  {
+    "market": "hospet",
+    "crop": "Ragi",
+    "forecast": null,
+    "error": "Model/scaler missing"
+  },
+  {
+    "market": "hospet",
+    "crop": "Rice",
+    "forecast": null,
+    "error": "Model/scaler missing"
+  },
+  {
+    "market": "hospet",
+    "crop": "Tomato",
+    "forecast": 1100.33935546875,
+    "error": null
+  }
+]

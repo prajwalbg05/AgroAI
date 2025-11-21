@@ -1,0 +1,524 @@
+﻿Sl no.,District Name,Market Name,Commodity,Variety,Grade,Min Price (Rs./Quintal),Max Price (Rs./Quintal),Modal Price (Rs./Quintal),Price Date
+1,Davangere,Davangere,Rice,Medium,FAQ,2400,3500,3130,26 Jun 2025
+2,Davangere,Davangere,Rice,Broken Rice,FAQ,2580,2580,2580,05 Aug 2024
+3,Davangere,Davangere,Rice,Broken Rice,FAQ,2680,2680,2680,19 Aug 2024
+4,Davangere,Davangere,Rice,Medium,FAQ,2600,2600,2600,28 Jun 2024
+5,Davangere,Davangere,Rice,Broken Rice,FAQ,2300,2300,2300,08 Apr 2025
+6,Davangere,Davangere,Rice,Medium,FAQ,2700,6000,4350,06 Jul 2018
+7,Davangere,Davangere,Rice,Medium,FAQ,4300,4300,4300,05 Dec 2024
+8,Davangere,Davangere,Rice,Medium,FAQ,3300,3400,3350,10 Jun 2016
+9,Davangere,Davangere,Rice,Medium,FAQ,3600,3700,3650,17 Mar 2017
+10,Davangere,Davangere,Rice,Medium,FAQ,2800,3500,3210,10 Jun 2025
+11,Davangere,Davangere,Rice,Medium,FAQ,3300,3500,3400,21 Oct 2015
+12,Davangere,Davangere,Rice,Medium,FAQ,3000,7140,4320,14 Mar 2025
+13,Davangere,Davangere,Rice,Medium,FAQ,2400,3500,3160,25 Jun 2025
+14,Davangere,Davangere,Rice,Medium,FAQ,2900,3000,2950,14 Aug 2015
+15,Davangere,Davangere,Rice,Medium,FAQ,2900,4100,3651,20 Dec 2024
+16,Davangere,Davangere,Rice,Medium,FAQ,2900,6000,4450,03 May 2019
+17,Davangere,Davangere,Rice,Medium,FAQ,3000,3900,3450,17 Apr 2025
+18,Davangere,Davangere,Rice,Medium,FAQ,3000,3000,3000,01 Jan 2025
+19,Davangere,Davangere,Rice,Medium,FAQ,2900,6000,4450,09 Dec 2024
+20,Davangere,Davangere,Rice,Medium,FAQ,4250,4800,4525,11 Nov 2024
+21,Davangere,Davangere,Rice,Medium,FAQ,2900,7120,5010,26 Aug 2024
+22,Davangere,Davangere,Rice,Medium,FAQ,2400,3300,3190,24 Apr 2025
+23,Davangere,Davangere,Rice,Medium,FAQ,2800,5200,4000,16 Aug 2018
+24,Davangere,Davangere,Rice,Medium,Local,2400,3500,2990,10 Jul 2025
+25,Davangere,Davangere,Rice,Medium,FAQ,3600,6000,4800,21 Jul 2017
+26,Davangere,Davangere,Rice,Medium,FAQ,3300,3400,3350,06 May 2016
+27,Davangere,Davangere,Rice,Medium,FAQ,3600,3700,3650,21 Apr 2017
+28,Davangere,Davangere,Rice,Medium,FAQ,3600,3700,3650,13 Apr 2017
+29,Davangere,Davangere,Rice,Medium,FAQ,2930,4250,3590,24 Sep 2024
+30,Davangere,Davangere,Rice,Medium,FAQ,3500,3600,3550,01 Sep 2016
+31,Davangere,Davangere,Rice,Medium,FAQ,5316,5316,5316,06 Dec 2024
+32,Davangere,Davangere,Rice,Medium,FAQ,2800,3550,3160,30 May 2025
+33,Davangere,Davangere,Rice,Medium,Local,2400,2930,2730,05 Jul 2025
+34,Davangere,Davangere,Rice,Medium,FAQ,4176,5020,4690,09 Aug 2024
+35,Davangere,Davangere,Rice,Medium,FAQ,2900,2900,2900,20 Sep 2024
+36,Davangere,Davangere,Rice,Broken Rice,FAQ,2240,2500,2360,29 May 2025
+37,Davangere,Davangere,Rice,Medium,FAQ,2450,2480,2467,26 Apr 2020
+38,Davangere,Davangere,Rice,Medium,FAQ,3300,3400,3350,04 Dec 2015
+39,Davangere,Davangere,Rice,Medium,FAQ,2650,2650,2650,11 Jul 2024
+40,Davangere,Davangere,Rice,Medium,FAQ,2800,6000,4400,04 Jan 2019
+41,Davangere,Davangere,Rice,Medium,FAQ,3000,3850,3430,19 Feb 2025
+42,Davangere,Davangere,Rice,Medium,FAQ,2800,5500,4150,29 Jun 2018
+43,Davangere,Davangere,Rice,Medium,FAQ,3600,3700,3650,22 Jul 2016
+44,Davangere,Davangere,Rice,Medium,FAQ,3200,3300,3250,23 Sep 2015
+45,Davangere,Davangere,Rice,Medium,FAQ,3600,6000,4800,28 Jul 2017
+46,Davangere,Davangere,Rice,Broken Rice,FAQ,2410,2410,2410,10 Feb 2025
+47,Davangere,Davangere,Rice,Medium,FAQ,2450,2800,2610,20 May 2025
+48,Davangere,Davangere,Rice,Medium,FAQ,2900,6000,4450,05 Apr 2019
+49,Davangere,Davangere,Rice,Medium,FAQ,2450,3410,2800,19 May 2025
+50,Davangere,Davangere,Rice,Medium,FAQ,3800,4400,4130,30 Jan 2025
+51,Davangere,Davangere,Rice,Medium,Ref grade-1,3020,3800,3430,04 Feb 2025
+52,Davangere,Davangere,Rice,Medium,FAQ,2800,3600,3130,22 May 2025
+53,Davangere,Davangere,Rice,Medium,FAQ,3300,3400,3350,28 May 2016
+54,Davangere,Davangere,Rice,Medium,FAQ,2700,6000,4350,31 Aug 2018
+55,Davangere,Davangere,Rice,Broken Rice,FAQ,2500,2900,2700,15 Jul 2024
+56,Davangere,Davangere,Rice,Medium,FAQ,5800,6000,5900,05 Jun 2020
+57,Davangere,Davangere,Rice,Medium,FAQ,3000,7050,5010,30 Dec 2024
+58,Davangere,Davangere,Rice,Medium,FAQ,2900,6048,4474,22 Oct 2024
+59,Davangere,Davangere,Rice,Medium,FAQ,2700,6000,4350,01 Mar 2019
+60,Davangere,Davangere,Rice,Broken Rice,FAQ,2600,2600,2600,18 Dec 2024
+61,Davangere,Davangere,Rice,Medium,FAQ,2700,5800,4250,28 Dec 2018
+62,Davangere,Davangere,Rice,Medium,FAQ,2700,6000,4350,15 Mar 2019
+63,Davangere,Davangere,Rice,Broken Rice,Local,2200,2200,2200,04 Jul 2025
+64,Davangere,Davangere,Rice,Broken Rice,FAQ,2000,2900,2450,23 Jul 2024
+65,Davangere,Davangere,Rice,Medium,FAQ,5000,6350,5675,09 Jul 2024
+66,Davangere,Davangere,Rice,Medium,FAQ,3000,4000,3770,13 Feb 2025
+67,Davangere,Davangere,Rice,Broken Rice,FAQ,2500,2500,2500,12 Jul 2024
+68,Davangere,Davangere,Rice,Medium,FAQ,3000,6000,4500,13 Sep 2019
+69,Davangere,Davangere,Rice,Broken Rice,FAQ,2200,2230,2220,17 May 2025
+70,Davangere,Davangere,Rice,Medium,FAQ,3000,4000,3530,27 Jan 2025
+71,Davangere,Davangere,Rice,Medium,FAQ,2700,2700,2700,03 Jul 2024
+72,Davangere,Davangere,Rice,Medium,Local,2400,3600,2910,15 Jul 2025
+73,Davangere,Davangere,Rice,Basumathi,FAQ,12000,13000,12500,18 Dec 2015
+74,Davangere,Davangere,Rice,Broken Rice,FAQ,2200,2250,2222,28 May 2025
+75,Davangere,Davangere,Rice,Medium,FAQ,2800,5800,4300,26 Jun 2020
+76,Davangere,Davangere,Rice,Medium,FAQ,2900,6000,4450,19 Jul 2019
+77,Davangere,Davangere,Rice,Medium,Ref grade-1,3000,4150,3590,05 Feb 2025
+78,Davangere,Davangere,Rice,Medium,FAQ,2900,3655,3120,14 May 2025
+79,Davangere,Davangere,Rice,Broken Rice,FAQ,2100,2650,2375,04 Sep 2024
+80,Davangere,Davangere,Rice,Medium,FAQ,3000,6660,4360,20 Feb 2025
+81,Davangere,Davangere,Rice,Medium,FAQ,2400,3200,2930,12 Jun 2025
+82,Davangere,Davangere,Rice,Medium,FAQ,3000,6000,4500,27 Sep 2019
+83,Davangere,Davangere,Rice,Medium,FAQ,2900,6770,4835,20 Nov 2024
+84,Davangere,Davangere,Rice,Medium,FAQ,3600,3700,3650,02 Jun 2017
+85,Davangere,Davangere,Rice,Medium,FAQ,5124,7020,5530,23 Jan 2025
+86,Davangere,Davangere,Rice,Medium,FAQ,3000,4200,3760,18 Mar 2025
+87,Davangere,Davangere,Rice,Medium,FAQ,4100,4845,4520,07 Apr 2025
+88,Davangere,Davangere,Rice,Medium,FAQ,3500,3600,3550,03 Feb 2017
+89,Davangere,Davangere,Rice,Medium,FAQ,2900,2900,2900,04 Sep 2024
+90,Davangere,Davangere,Rice,Broken Rice,Local,2200,2200,2200,09 Jul 2025
+91,Davangere,Davangere,Rice,Medium,FAQ,3300,3400,3350,30 Jan 2016
+92,Davangere,Davangere,Rice,Medium,FAQ,5708,5750,5729,16 Aug 2024
+93,Davangere,Davangere,Rice,Medium,FAQ,3300,3400,3350,17 Jun 2016
+94,Davangere,Davangere,Rice,Medium,FAQ,5410,6800,5610,18 Jan 2025
+95,Davangere,Davangere,Rice,Medium,FAQ,2900,6000,4450,23 Aug 2019
+96,Davangere,Davangere,Rice,Medium,Local,2400,5450,3630,08 Jul 2025
+97,Davangere,Davangere,Rice,Medium,FAQ,2900,7110,5005,05 Sep 2024
+98,Davangere,Davangere,Rice,Basumathi,FAQ,10500,11000,10750,22 Mar 2019
+99,Davangere,Davangere,Rice,Medium,FAQ,2800,6000,4400,22 May 2020
+100,Davangere,Davangere,Rice,Medium,FAQ,3500,3600,3550,24 Jun 2016
+101,Davangere,Davangere,Rice,Medium,FAQ,3200,3300,3250,11 Dec 2015
+102,Davangere,Davangere,Rice,Medium,FAQ,3200,3300,3250,20 Nov 2015
+103,Davangere,Davangere,Rice,Medium,FAQ,5000,5000,5000,05 Apr 2025
+104,Davangere,Davangere,Rice,Medium,Ref grade-1,3000,7020,4830,03 Feb 2025
+105,Davangere,Davangere,Rice,Medium,FAQ,2900,6000,4450,18 Dec 2024
+106,Davangere,Davangere,Rice,Medium,FAQ,2800,3830,3230,21 Apr 2025
+107,Davangere,Davangere,Rice,Broken Rice,FAQ,2250,2400,2320,18 Jun 2025
+108,Davangere,Davangere,Rice,Basumathi,FAQ,15000,16000,15500,21 Oct 2016
+109,Davangere,Davangere,Rice,Broken Rice,FAQ,2170,2575,2375,04 Nov 2024
+110,Davangere,Davangere,Rice,Medium,FAQ,3010,3010,3010,16 Apr 2025
+111,Davangere,Davangere,Rice,Medium,FAQ,3200,3300,3250,18 Dec 2015
+112,Davangere,Davangere,Rice,Broken Rice,FAQ,2200,2830,2515,03 Oct 2024
+113,Davangere,Davangere,Rice,Broken Rice,FAQ,2230,2230,2230,11 Jun 2025
+114,Davangere,Davangere,Rice,Basumathi,FAQ,15000,16000,15500,23 Feb 2017
+115,Davangere,Davangere,Rice,Broken Rice,Local,2150,2150,2150,01 Jul 2025
+116,Davangere,Davangere,Rice,Medium,FAQ,3500,3600,3550,08 Sep 2016
+117,Davangere,Davangere,Rice,Medium,FAQ,2400,3700,3160,30 Jun 2025
+118,Davangere,Davangere,Rice,Medium,FAQ,3000,3500,3250,31 Dec 2024
+119,Davangere,Davangere,Rice,Medium,FAQ,3000,3950,3475,15 Jan 2025
+120,Davangere,Davangere,Rice,Medium,FAQ,2300,3650,3160,21 Jun 2025
+121,Davangere,Davangere,Rice,Broken Rice,FAQ,2250,2250,2250,12 May 2025
+122,Davangere,Davangere,Rice,Broken Rice,FAQ,2500,2500,2500,26 Jun 2024
+123,Davangere,Davangere,Rice,Broken Rice,FAQ,2140,2140,2140,13 Dec 2024
+124,Davangere,Davangere,Rice,Medium,Local,2400,5100,3630,11 Jul 2025
+125,Davangere,Davangere,Rice,Medium,FAQ,5733,6684,6208,21 Sep 2024
+126,Davangere,Davangere,Rice,Medium,FAQ,2400,3701,3160,16 Jun 2025
+127,Davangere,Davangere,Rice,Medium,FAQ,2700,5800,4250,11 Jan 2019
+128,Davangere,Davangere,Rice,Medium,FAQ,2800,6500,4650,29 Jul 2024
+129,Davangere,Davangere,Rice,Medium,FAQ,2800,2800,2800,17 Jun 2025
+130,Davangere,Davangere,Rice,Medium,FAQ,2900,2900,2900,13 Sep 2024
+131,Davangere,Davangere,Rice,Broken Rice,FAQ,2700,2700,2700,25 Jun 2025
+132,Davangere,Davangere,Rice,Basumathi,FAQ,14000,15000,14500,11 Aug 2017
+133,Davangere,Davangere,Rice,Broken Rice,FAQ,2500,2500,2500,24 Oct 2024
+134,Davangere,Davangere,Rice,Medium,FAQ,2400,3700,3230,03 Jun 2025
+135,Davangere,Davangere,Rice,Medium,FAQ,2700,5300,4000,09 Nov 2018
+136,Davangere,Davangere,Rice,Medium,FAQ,2600,2600,2600,29 Jun 2024
+137,Davangere,Davangere,Rice,Medium,FAQ,2800,2800,2800,30 Jul 2024
+138,Davangere,Davangere,Rice,Medium,FAQ,2800,6703,3660,31 May 2025
+139,Davangere,Davangere,Rice,Medium,FAQ,3000,6210,4630,21 Mar 2025
+140,Davangere,Davangere,Rice,Broken Rice,FAQ,2150,2150,2150,20 Dec 2024
+141,Davangere,Davangere,Rice,Medium,FAQ,2400,2850,2560,23 Jun 2025
+142,Davangere,Davangere,Rice,Medium,FAQ,3000,4200,3320,17 Feb 2025
+143,Davangere,Davangere,Rice,Medium,FAQ,3600,6000,4800,27 Dec 2019
+144,Davangere,Davangere,Rice,Broken Rice,FAQ,2250,2250,2250,16 May 2025
+145,Davangere,Davangere,Rice,Medium,FAQ,3010,3010,3010,08 Apr 2025
+146,Davangere,Davangere,Rice,Medium,FAQ,3000,3800,3460,06 Feb 2025
+147,Davangere,Davangere,Rice,Medium,FAQ,3000,6000,4500,01 Sep 2017
+148,Davangere,Davangere,Rice,Broken Rice,FAQ,2520,2520,2520,02 Jan 2025
+149,Davangere,Davangere,Rice,Broken Rice,FAQ,2600,2600,2600,12 Aug 2024
+150,Davangere,Davangere,Rice,Medium,Local,2800,3500,3160,04 Aug 2025
+151,Davangere,Davangere,Rice,Fine,FAQ,3600,3700,3650,02 Dec 2016
+152,Davangere,Davangere,Rice,Medium,FAQ,2800,6500,3060,29 Apr 2025
+153,Davangere,Davangere,Rice,Broken Rice,FAQ,3300,3300,3300,29 Jul 2024
+154,Davangere,Davangere,Rice,Medium,FAQ,3000,3306,3250,15 Apr 2025
+155,Davangere,Davangere,Rice,Broken Rice,FAQ,2230,2250,2242,09 Jun 2025
+156,Davangere,Davangere,Rice,Medium,FAQ,3000,4050,3560,13 Jan 2025
+157,Davangere,Davangere,Rice,Medium,FAQ,2900,2900,2900,13 Nov 2024
+158,Davangere,Davangere,Rice,Medium,FAQ,3500,3600,3550,28 Apr 2017
+159,Davangere,Davangere,Rice,Medium,FAQ,3000,3020,3015,15 Mar 2025
+160,Davangere,Davangere,Rice,Medium,FAQ,2800,6000,4400,15 May 2020
+161,Davangere,Davangere,Rice,Broken Rice,FAQ,2350,2350,2350,12 Nov 2024
+162,Davangere,Davangere,Rice,Medium,FAQ,2600,2600,2600,27 Jun 2024
+163,Davangere,Davangere,Rice,Medium,Local,2400,3000,2733,19 Jul 2025
+164,Davangere,Davangere,Rice,Medium,FAQ,2950,2950,2950,04 Dec 2024
+165,Davangere,Davangere,Rice,Medium,FAQ,2900,7213,5060,15 Oct 2024
+166,Davangere,Davangere,Rice,Medium,FAQ,2800,3600,3160,24 Jun 2025
+167,Davangere,Davangere,Rice,Medium,FAQ,3300,3400,3350,03 Jun 2016
+168,Davangere,Davangere,Rice,Medium,FAQ,2400,3500,2980,01 Jul 2025
+169,Davangere,Davangere,Rice,Medium,FAQ,3000,3020,3010,17 Mar 2025
+170,Davangere,Davangere,Rice,Broken Rice,FAQ,2500,2500,2500,15 May 2025
+171,Davangere,Davangere,Rice,Medium,Local,2400,3550,2990,07 Jul 2025
+172,Davangere,Davangere,Rice,Basumathi,FAQ,11300,11400,11350,10 Jan 2020
+173,Davangere,Davangere,Rice,Medium,FAQ,3600,3700,3650,07 Apr 2017
+174,Davangere,Davangere,Rice,Broken Rice,FAQ,2450,2500,2475,19 Nov 2024
+175,Davangere,Davangere,Rice,Medium,Local,2400,3570,2970,14 Jul 2025
+176,Davangere,Davangere,Rice,Medium,FAQ,2900,6000,4450,31 May 2019
+177,Davangere,Davangere,Rice,Medium,FAQ,2400,2850,2770,27 Jun 2025
+178,Davangere,Davangere,Rice,Medium,FAQ,3000,3000,3000,28 Mar 2025
+179,Davangere,Davangere,Rice,Medium,FAQ,2800,6000,4400,23 Nov 2018
+180,Davangere,Davangere,Rice,Medium,Ref grade-1,4000,4500,4260,31 Jan 2025
+181,Davangere,Davangere,Rice,Medium,FAQ,2900,6000,4450,13 Feb 2020
+182,Davangere,Davangere,Rice,Broken Rice,FAQ,2530,2530,2530,28 Oct 2024
+183,Davangere,Davangere,Rice,Broken Rice,FAQ,2000,2000,2000,31 Aug 2024
+184,Davangere,Davangere,Rice,Medium,FAQ,2950,2950,2950,28 Nov 2024
+185,Davangere,Davangere,Rice,Medium,FAQ,3500,4000,3760,26 Mar 2025
+186,Davangere,Davangere,Rice,Medium,FAQ,2900,6000,4450,03 Jan 2020
+187,Davangere,Davangere,Rice,Medium,FAQ,2300,4250,3275,01 Oct 2024
+188,Davangere,Davangere,Rice,Medium,FAQ,3500,3500,3500,13 Jun 2025
+189,Davangere,Davangere,Rice,Medium,FAQ,2900,3985,3442,27 Nov 2024
+190,Davangere,Davangere,Rice,Medium,FAQ,2700,6000,4350,28 Sep 2018
+191,Davangere,Davangere,Rice,Medium,FAQ,3500,3600,3550,29 Jul 2016
+192,Davangere,Davangere,Rice,Medium,FAQ,3010,3010,3010,06 May 2025
+193,Davangere,Davangere,Rice,Medium,FAQ,2900,6000,4450,26 Apr 2019
+194,Davangere,Davangere,Rice,Medium,FAQ,2700,2700,2700,23 Jul 2024
+195,Davangere,Davangere,Rice,Basumathi,FAQ,15000,16000,15500,17 Mar 2017
+196,Davangere,Davangere,Rice,Medium,FAQ,2900,2900,2900,08 Nov 2024
+197,Davangere,Davangere,Rice,Broken Rice,FAQ,1820,2800,2520,02 May 2025
+198,Davangere,Davangere,Rice,Medium,FAQ,2900,4937,4100,31 Aug 2024
+199,Davangere,Davangere,Rice,Basumathi,FAQ,14000,15000,14500,11 Nov 2016
+200,Davangere,Davangere,Rice,Broken Rice,FAQ,2500,2500,2500,28 Jun 2024
+201,Davangere,Davangere,Rice,Medium,FAQ,2400,3500,3180,05 Jun 2025
+202,Davangere,Davangere,Rice,Basumathi,FAQ,14000,15000,14500,03 Mar 2017
+203,Davangere,Davangere,Rice,Medium,FAQ,2400,3718,3210,02 Jun 2025
+204,Davangere,Davangere,Rice,Medium,Local,3200,3250,3215,16 Jul 2025
+205,Davangere,Davangere,Rice,Broken Rice,FAQ,1800,2500,2160,05 May 2025
+206,Davangere,Davangere,Rice,Medium,FAQ,3000,4110,3560,18 Feb 2025
+207,Davangere,Davangere,Rice,Medium,FAQ,3500,4050,3720,04 Jan 2025
+208,Davangere,Davangere,Rice,Medium,FAQ,2900,5100,4000,19 Sep 2024
+209,Davangere,Davangere,Rice,Medium,FAQ,2900,6425,4663,25 Nov 2024
+210,Davangere,Davangere,Rice,Medium,FAQ,3600,6000,4800,18 May 2018
+211,Davangere,Davangere,Rice,Medium,Local,2400,3700,3280,23 Jul 2025
+212,Davangere,Davangere,Rice,Medium,FAQ,3200,3400,3300,09 Oct 2015
+213,Davangere,Davangere,Rice,Medium,FAQ,3200,3300,3250,23 Dec 2015
+214,Davangere,Davangere,Rice,Medium,FAQ,2800,3850,3320,23 Apr 2025
+215,Davangere,Davangere,Rice,Broken Rice,FAQ,2520,2520,2520,03 Jan 2025
+216,Davangere,Davangere,Rice,Medium,FAQ,3100,3100,3100,23 Oct 2024
+217,Davangere,Davangere,Rice,Broken Rice,FAQ,2280,2300,2292,26 Jun 2025
+218,Davangere,Davangere,Rice,Broken Rice,FAQ,2800,2800,2800,28 Mar 2025
+219,Davangere,Davangere,Rice,Medium,FAQ,2900,6000,4450,18 Oct 2019
+220,Davangere,Davangere,Rice,Broken Rice,FAQ,1780,1780,1780,24 Jun 2025
+221,Davangere,Davangere,Rice,Medium,Local,2400,3500,3130,02 Aug 2025
+222,Davangere,Davangere,Rice,Medium,FAQ,3000,3000,3000,11 Apr 2025
+223,Davangere,Davangere,Rice,Medium,FAQ,2425,3550,2930,07 May 2025
+224,Davangere,Davangere,Rice,Medium,Local,2400,3550,2990,21 Jul 2025
+225,Davangere,Davangere,Rice,Medium,FAQ,3000,3000,3000,25 Mar 2025
+226,Davangere,Davangere,Rice,Medium,FAQ,2900,6000,4450,22 Nov 2019
+227,Davangere,Davangere,Rice,Medium,FAQ,2900,6000,4450,13 Dec 2019
+228,Davangere,Davangere,Rice,Medium,FAQ,5336,6000,5668,13 Dec 2024
+229,Davangere,Davangere,Rice,Medium,FAQ,4250,5130,4690,18 Oct 2024
+230,Davangere,Davangere,Rice,Medium,FAQ,3200,3300,3250,11 Sep 2015
+231,Davangere,Davangere,Rice,Basumathi,FAQ,12000,13000,12500,16 Jun 2017
+232,Davangere,Davangere,Rice,Medium,FAQ,2800,6000,4400,25 Oct 2019
+233,Davangere,Davangere,Rice,Medium,FAQ,2900,6000,4450,07 Feb 2020
+234,Davangere,Davangere,Rice,Broken Rice,FAQ,2750,2750,2750,21 Sep 2024
+235,Davangere,Davangere,Rice,Medium,FAQ,3000,4200,3310,29 Mar 2025
+236,Davangere,Davangere,Rice,Broken Rice,FAQ,2198,2260,2215,02 Jun 2025
+237,Davangere,Davangere,Rice,Medium,FAQ,2600,3600,3100,15 Jul 2024
+238,Davangere,Davangere,Rice,Medium,FAQ,3200,3300,3250,04 Sep 2015
+239,Davangere,Davangere,Rice,Medium,FAQ,2900,4500,3700,19 Aug 2024
+240,Davangere,Davangere,Rice,Medium,FAQ,3300,3400,3350,01 Oct 2015
+241,Davangere,Davangere,Rice,Medium,FAQ,3893,3893,3893,02 Dec 2024
+242,Davangere,Davangere,Rice,Broken Rice,Local,2200,2200,2200,14 Jul 2025
+243,Davangere,Davangere,Rice,Medium,FAQ,2900,5500,4200,08 Sep 2017
+244,Davangere,Davangere,Rice,Medium,FAQ,2900,4250,3575,28 Oct 2024
+245,Davangere,Davangere,Rice,Medium,FAQ,2500,5153,3827,16 Jul 2024
+246,Davangere,Davangere,Rice,Broken Rice,FAQ,2410,2410,2410,28 Jan 2025
+247,Davangere,Davangere,Rice,Medium,FAQ,3400,3600,3500,07 Oct 2016
+248,Davangere,Davangere,Rice,Medium,Local,2400,3500,2980,01 Jul 2025
+249,Davangere,Davangere,Rice,Medium,FAQ,3700,3800,3750,31 Mar 2017
+250,Davangere,Davangere,Rice,Medium,FAQ,3300,3400,3350,08 Jan 2016
+251,Davangere,Davangere,Rice,Medium,FAQ,3400,3600,3500,30 Dec 2016
+252,Davangere,Davangere,Rice,Medium,Local,2800,6982,3310,05 Aug 2025
+253,Davangere,Davangere,Rice,Medium,FAQ,3600,6000,4800,04 May 2018
+254,Davangere,Davangere,Rice,Medium,Ref grade-1,3000,7020,4560,01 Feb 2025
+255,Davangere,Davangere,Rice,Medium,FAQ,3000,3010,3004,07 Feb 2025
+256,Davangere,Davangere,Rice,Medium,FAQ,2800,6000,4400,07 Dec 2018
+257,Davangere,Davangere,Rice,Broken Rice,FAQ,1900,2500,2330,21 Apr 2025
+258,Davangere,Davangere,Rice,Medium,FAQ,2800,4900,3850,30 Sep 2024
+259,Davangere,Davangere,Rice,Medium,FAQ,3000,6100,4550,09 Aug 2019
+260,Davangere,Davangere,Rice,Medium,FAQ,2900,6000,4450,10 May 2019
+261,Davangere,Davangere,Rice,Medium,FAQ,3000,3000,3000,06 Jan 2025
+262,Davangere,Davangere,Rice,Medium,Local,2400,2950,2863,06 Aug 2025
+263,Davangere,Davangere,Rice,Medium,FAQ,2800,6000,4400,22 Mar 2019
+264,Davangere,Davangere,Rice,Medium,FAQ,300,4125,3690,13 Mar 2025
+265,Davangere,Davangere,Rice,Medium,FAQ,3000,3020,3005,21 Feb 2025
+266,Davangere,Davangere,Rice,Medium,FAQ,2900,6000,4450,14 Dec 2018
+267,Davangere,Davangere,Rice,Medium,FAQ,3500,3600,3550,05 Aug 2016
+268,Davangere,Davangere,Rice,Medium,FAQ,2900,6000,4450,10 Apr 2020
+269,Davangere,Davangere,Rice,Medium,FAQ,2700,6000,4350,05 Oct 2018
+270,Davangere,Davangere,Rice,Medium,FAQ,3000,6231,4590,24 Mar 2025
+271,Davangere,Davangere,Rice,Medium,FAQ,2026,6230,4470,10 Oct 2024
+272,Davangere,Davangere,Rice,Medium,FAQ,3600,3700,3650,12 May 2017
+273,Davangere,Davangere,Rice,Broken Rice,FAQ,2510,2510,2510,04 Oct 2024
+274,Davangere,Davangere,Rice,Medium,FAQ,2900,2900,2900,05 Aug 2024
+275,Davangere,Davangere,Rice,Broken Rice,FAQ,2100,3370,2735,25 Nov 2024
+276,Davangere,Davangere,Rice,Basumathi,FAQ,14000,15000,14500,18 Aug 2017
+277,Davangere,Davangere,Rice,Medium,FAQ,2900,6050,5020,03 Aug 2024
+278,Davangere,Davangere,Rice,Broken Rice,FAQ,2550,2550,2550,04 Dec 2024
+279,Davangere,Davangere,Rice,Medium,FAQ,2900,6000,4450,30 Aug 2019
+280,Davangere,Davangere,Rice,Medium,FAQ,2600,3300,2950,24 Jun 2024
+281,Davangere,Davangere,Rice,Medium,FAQ,2900,6988,4944,15 Nov 2024
+282,Davangere,Davangere,Rice,Broken Rice,FAQ,2130,2500,2315,14 Oct 2024
+283,Davangere,Davangere,Rice,Medium,FAQ,2400,3650,3130,09 Jun 2025
+284,Davangere,Davangere,Rice,Medium,FAQ,3600,3700,3650,27 Jan 2017
+285,Davangere,Davangere,Rice,Broken Rice,FAQ,2500,2500,2500,03 May 2025
+286,Davangere,Davangere,Rice,Medium,FAQ,3300,3400,3350,13 May 2016
+287,Davangere,Davangere,Rice,Medium,Local,2400,3500,2930,03 Jul 2025
+288,Davangere,Davangere,Rice,Medium,FAQ,2410,4170,3829,02 May 2025
+289,Davangere,Davangere,Rice,Medium,FAQ,2900,4200,3550,19 Dec 2024
+290,Davangere,Davangere,Rice,Medium,FAQ,2900,6000,4450,17 Apr 2020
+291,Davangere,Davangere,Rice,Medium,FAQ,3000,6000,4500,06 Sep 2019
+292,Davangere,Davangere,Rice,Broken Rice,FAQ,2200,2200,2200,05 Jul 2024
+293,Davangere,Davangere,Rice,Medium,FAQ,3000,4500,3860,20 Mar 2025
+294,Davangere,Davangere,Rice,Medium,FAQ,3300,3400,3350,30 Oct 2015
+295,Davangere,Davangere,Rice,Medium,FAQ,3000,7040,4560,19 Mar 2025
+296,Davangere,Davangere,Rice,Medium,FAQ,3700,3800,3750,19 May 2017
+297,Davangere,Davangere,Rice,Broken Rice,FAQ,2450,2450,2450,16 Jul 2024
+298,Davangere,Davangere,Rice,Medium,FAQ,2900,2900,2900,12 Sep 2024
+299,Davangere,Davangere,Rice,Medium,FAQ,3600,3700,3650,12 Aug 2016
+300,Davangere,Davangere,Rice,Broken Rice,FAQ,2130,2500,2315,19 Oct 2024
+301,Davangere,Davangere,Rice,Medium,FAQ,3300,3400,3350,29 Apr 2016
+302,Davangere,Davangere,Rice,Medium,FAQ,2800,3950,3350,22 Apr 2025
+303,Davangere,Davangere,Rice,Medium,FAQ,3000,6295,4230,10 Feb 2025
+304,Davangere,Davangere,Rice,Medium,FAQ,3000,4000,3560,14 Feb 2025
+305,Davangere,Davangere,Rice,Medium,FAQ,3000,3850,3410,15 Feb 2025
+306,Davangere,Davangere,Rice,Medium,FAQ,2900,6050,5450,08 Aug 2024
+307,Davangere,Davangere,Rice,Medium,FAQ,3000,3800,3400,07 Jan 2025
+308,Davangere,Davangere,Rice,Broken Rice,FAQ,2250,2250,2250,29 Apr 2025
+309,Davangere,Davangere,Rice,Medium,FAQ,3600,3700,3650,15 Jul 2016
+310,Davangere,Davangere,Rice,Broken Rice,FAQ,2450,2450,2450,11 Jul 2024
+311,Davangere,Davangere,Rice,Medium,FAQ,2900,5800,4350,21 Dec 2018
+312,Davangere,Davangere,Rice,Broken Rice,FAQ,2455,2455,2455,20 Jan 2025
+313,Davangere,Davangere,Rice,Medium,FAQ,2900,2900,2900,18 Sep 2024
+314,Davangere,Davangere,Rice,Broken Rice,FAQ,2200,2500,2390,11 Apr 2025
+315,Davangere,Davangere,Rice,Medium,FAQ,2900,2900,2900,02 Sep 2024
+316,Davangere,Davangere,Rice,Medium,Local,2400,3200,2930,28 Jul 2025
+317,Davangere,Davangere,Rice,Medium,FAQ,2900,6200,4550,02 Aug 2024
+318,Davangere,Davangere,Rice,Medium,FAQ,2425,2800,2630,13 May 2025
+319,Davangere,Davangere,Rice,Medium,FAQ,3200,3300,3250,06 Nov 2015
+320,Davangere,Davangere,Rice,Medium,FAQ,3000,4000,3500,17 Jan 2025
+321,Davangere,Davangere,Rice,Medium,FAQ,2700,5500,4100,10 Aug 2018
+322,Davangere,Davangere,Rice,Broken Rice,FAQ,2380,2420,2410,27 Jan 2025
+323,Davangere,Davangere,Rice,Medium,FAQ,2750,6990,4870,19 Nov 2024
+324,Davangere,Davangere,Rice,Medium,FAQ,2800,3550,3130,27 May 2025
+325,Davangere,Davangere,Rice,Medium,FAQ,3600,5600,4600,14 Jul 2017
+326,Davangere,Davangere,Rice,Broken Rice,FAQ,2500,2500,2500,15 Nov 2024
+327,Davangere,Davangere,Rice,Broken Rice,FAQ,2200,2200,2200,08 Jul 2024
+328,Davangere,Davangere,Rice,Broken Rice,Local,2280,2300,2292,16 Jul 2025
+329,Davangere,Davangere,Rice,Medium,FAQ,2900,6000,4450,12 Jul 2019
+330,Davangere,Davangere,Rice,Medium,Local,2400,2940,2830,22 Jul 2025
+331,Davangere,Davangere,Rice,Medium,FAQ,2700,2700,2700,22 Jul 2024
+332,Davangere,Davangere,Rice,Medium,FAQ,2900,5750,4325,07 Aug 2024
+333,Davangere,Davangere,Rice,Medium,FAQ,2700,6000,4350,15 Jun 2018
+334,Davangere,Davangere,Rice,Broken Rice,FAQ,2300,2300,2300,20 Feb 2025
+335,Davangere,Davangere,Rice,Medium,Local,2400,5400,3190,01 Aug 2025
+336,Davangere,Davangere,Rice,Broken Rice,Local,2292,2292,2292,23 Jul 2025
+337,Davangere,Davangere,Rice,Basumathi,FAQ,11000,12000,11500,04 Sep 2015
+338,Davangere,Davangere,Rice,Medium,FAQ,3000,6100,4550,12 Apr 2019
+339,Davangere,Davangere,Rice,Broken Rice,FAQ,2260,2260,2260,24 Jul 2024
+340,Davangere,Davangere,Rice,Medium,FAQ,2800,5500,4150,20 Jul 2018
+341,Davangere,Davangere,Rice,Medium,FAQ,3000,5200,4100,24 Oct 2024
+342,Davangere,Davangere,Rice,Medium,FAQ,3600,3700,3650,23 Sep 2016
+343,Davangere,Davangere,Rice,Medium,FAQ,2900,2900,2900,09 Sep 2024
+344,Davangere,Davangere,Rice,Broken Rice,FAQ,1750,1750,1750,13 Jun 2025
+345,Davangere,Davangere,Rice,Broken Rice,FAQ,2250,2250,2250,20 May 2025
+346,Davangere,Davangere,Rice,Broken Rice,FAQ,2000,2000,2000,27 Aug 2024
+347,Davangere,Davangere,Rice,Medium,FAQ,3000,3800,3450,27 Feb 2025
+348,Davangere,Davangere,Rice,Broken Rice,FAQ,2150,2550,2350,11 Nov 2024
+349,Davangere,Davangere,Rice,Medium,FAQ,3600,3700,3650,18 Nov 2016
+350,Davangere,Davangere,Rice,Medium,FAQ,2800,5020,4100,25 Jul 2024
+351,Davangere,Davangere,Rice,Medium,FAQ,2900,4200,3550,26 Nov 2024
+352,Davangere,Davangere,Rice,Medium,FAQ,2600,2600,2600,01 Jul 2024
+353,Davangere,Davangere,Rice,Medium,FAQ,2900,3250,3075,30 Oct 2024
+354,Davangere,Davangere,Rice,Medium,FAQ,3600,3700,3650,19 Jan 2018
+355,Davangere,Davangere,Rice,Broken Rice,FAQ,2360,2400,2375,22 Apr 2025
+356,Davangere,Davangere,Rice,Medium,FAQ,2600,3300,3000,21 Jun 2024
+357,Davangere,Davangere,Rice,Basumathi,FAQ,11000,12000,11500,27 Nov 2015
+358,Davangere,Davangere,Rice,Basumathi,FAQ,18000,20000,19000,15 Jul 2016
+359,Davangere,Davangere,Rice,Medium,FAQ,2900,6000,4450,22 Feb 2019
+360,Davangere,Davangere,Rice,Medium,FAQ,2900,5708,4510,30 Aug 2024
+361,Davangere,Davangere,Rice,Medium,FAQ,3500,3600,3550,14 Oct 2016
+362,Davangere,Davangere,Rice,Medium,FAQ,2900,6000,4450,30 Oct 2019
+363,Davangere,Davangere,Rice,Medium,FAQ,3200,3300,3250,01 Jan 2016
+364,Davangere,Davangere,Rice,Medium,FAQ,3200,3300,3250,13 Nov 2015
+365,Davangere,Davangere,Rice,Medium,FAQ,2900,2900,2900,12 Aug 2024
+366,Davangere,Davangere,Rice,Broken Rice,FAQ,2250,2250,2250,23 Jun 2025
+367,Davangere,Davangere,Rice,Medium,FAQ,1930,2560,2245,18 Aug 2017
+368,Davangere,Davangere,Rice,Medium,FAQ,3650,3650,3650,18 Jun 2025
+369,Davangere,Davangere,Rice,Medium,FAQ,3600,3700,3650,03 Mar 2017
+370,Davangere,Davangere,Rice,Medium,FAQ,2800,6000,4400,29 Mar 2019
+371,Davangere,Davangere,Rice,Broken Rice,FAQ,2500,2800,2630,02 Jul 2024
+372,Davangere,Davangere,Rice,Medium,FAQ,3200,3300,3250,14 Jan 2016
+373,Davangere,Davangere,Rice,Medium,Local,2200,3600,3030,04 Jul 2025
+374,Davangere,Davangere,Rice,Basumathi,FAQ,14000,15000,14500,10 Mar 2017
+375,Davangere,Davangere,Rice,Broken Rice,FAQ,1900,2305,2219,23 Apr 2025
+376,Davangere,Davangere,Rice,Medium,FAQ,2900,6000,4450,25 Jan 2019
+377,Davangere,Davangere,Rice,Broken Rice,Local,2300,2300,2300,01 Aug 2025
+378,Davangere,Davangere,Rice,Medium,FAQ,2900,6000,4450,24 Apr 2020
+379,Davangere,Davangere,Rice,Basumathi,FAQ,15000,16000,15500,24 Mar 2017
+380,Davangere,Davangere,Rice,Medium,Local,2400,3500,3010,18 Jul 2025
+381,Davangere,Davangere,Rice,Medium,FAQ,2900,6995,4950,04 Nov 2024
+382,Davangere,Davangere,Rice,Medium,Local,2400,3450,2990,17 Jul 2025
+383,Davangere,Davangere,Rice,Broken Rice,FAQ,2500,2500,2500,25 Jun 2024
+384,Davangere,Davangere,Rice,Broken Rice,FAQ,2680,2680,2680,17 Sep 2024
+385,Davangere,Davangere,Rice,Broken Rice,FAQ,2500,2500,2500,01 Jul 2024
+386,Davangere,Davangere,Rice,Broken Rice,FAQ,2500,2500,2500,30 Oct 2024
+387,Davangere,Davangere,Rice,Broken Rice,FAQ,2450,2450,2450,13 Nov 2024
+388,Davangere,Davangere,Rice,Medium,FAQ,2400,3010,2790,25 Apr 2025
+389,Davangere,Davangere,Rice,Medium,FAQ,3400,3600,3500,19 Aug 2016
+390,Davangere,Davangere,Rice,Medium,FAQ,3000,3650,3410,11 Feb 2025
+391,Davangere,Davangere,Rice,Medium,FAQ,2900,6000,4450,31 Oct 2019
+392,Davangere,Davangere,Rice,Medium,Local,2400,3700,3190,25 Jul 2025
+393,Davangere,Davangere,Rice,Medium,FAQ,2600,3275,2937,25 Jun 2024
+394,Davangere,Davangere,Rice,Medium,FAQ,3600,5000,4300,25 Jan 2018
+395,Davangere,Davangere,Rice,Medium,FAQ,2700,5000,3850,24 Jul 2024
+396,Davangere,Davangere,Rice,Broken Rice,FAQ,2300,2300,2300,11 Feb 2025
+397,Davangere,Davangere,Rice,Medium,FAQ,2900,5500,4200,13 Oct 2017
+398,Davangere,Davangere,Rice,Medium,FAQ,2900,5505,4203,16 Dec 2024
+399,Davangere,Davangere,Rice,Medium,FAQ,2700,3500,3100,18 Jul 2024
+400,Davangere,Davangere,Rice,Broken Rice,FAQ,2000,2600,2410,16 Jun 2025
+401,Davangere,Davangere,Rice,Medium,FAQ,3600,3700,3650,05 Jan 2018
+402,Davangere,Davangere,Rice,Broken Rice,FAQ,2130,2130,2130,30 Dec 2024
+403,Davangere,Davangere,Rice,Broken Rice,FAQ,2000,2000,2000,25 Jul 2024
+404,Davangere,Davangere,Rice,Basumathi,FAQ,17000,18000,17500,19 Aug 2016
+405,Davangere,Davangere,Rice,Broken Rice,FAQ,2500,2500,2500,31 Dec 2024
+406,Davangere,Davangere,Rice,Medium,FAQ,2410,5550,3620,12 May 2025
+407,Davangere,Davangere,Rice,Medium,FAQ,2900,2900,2900,12 Nov 2024
+408,Davangere,Davangere,Rice,Medium,FAQ,2425,3800,3720,17 May 2025
+409,Davangere,Davangere,Rice,Medium,FAQ,3850,6449,5030,20 Jan 2025
+410,Davangere,Davangere,Rice,Medium,FAQ,2900,5050,3975,26 Sep 2024
+411,Davangere,Davangere,Rice,Medium,FAQ,3600,3700,3650,16 Sep 2016
+412,Davangere,Davangere,Rice,Broken Rice,FAQ,2420,2420,2420,06 Feb 2025
+413,Davangere,Davangere,Rice,Medium,FAQ,3000,4125,3630,12 Mar 2025
+414,Davangere,Davangere,Rice,Medium,FAQ,2900,5100,4000,17 Sep 2024
+415,Davangere,Davangere,Rice,Medium,FAQ,3600,3700,3650,09 Jun 2017
+416,Davangere,Davangere,Rice,Medium,FAQ,4400,4500,4450,04 Oct 2024
+417,Davangere,Davangere,Rice,Medium,FAQ,4250,6056,5153,03 Oct 2024
+418,Davangere,Davangere,Rice,Medium,FAQ,2700,6000,4350,08 Mar 2019
+419,Davangere,Davangere,Rice,Medium,FAQ,4156,4156,4156,28 Jan 2025
+420,Davangere,Davangere,Rice,Medium,FAQ,2400,3010,2830,28 Apr 2025
+421,Davangere,Davangere,Rice,Medium,Local,2800,3300,3130,07 Aug 2025
+422,Davangere,Davangere,Rice,Broken Rice,FAQ,3500,3500,3500,29 Jun 2024
+423,Davangere,Davangere,Rice,Medium,FAQ,3500,3600,3550,01 Jul 2016
+424,Davangere,Davangere,Rice,Broken Rice,FAQ,2500,2500,2500,18 Jul 2024
+425,Davangere,Davangere,Rice,Basumathi,FAQ,10000,11000,10500,01 Jun 2018
+426,Davangere,Davangere,Rice,Broken Rice,FAQ,1750,2100,2010,21 Jun 2025
+427,Davangere,Davangere,Rice,Broken Rice,FAQ,2260,2260,2260,19 Jul 2024
+428,Davangere,Davangere,Rice,Medium,FAQ,4000,4250,4125,14 Oct 2024
+429,Davangere,Davangere,Rice,Medium,FAQ,2800,5500,4150,24 Aug 2018
+430,Davangere,Davangere,Rice,Medium,FAQ,2400,6950,3690,08 May 2025
+431,Davangere,Davangere,Rice,Medium,FAQ,3200,3300,3250,28 Aug 2015
+432,Davangere,Davangere,Rice,Broken Rice,FAQ,2350,2350,2350,30 May 2025
+433,Davangere,Davangere,Rice,Medium,FAQ,3020,4200,3690,04 Apr 2025
+434,Davangere,Davangere,Rice,Medium,FAQ,2800,6000,4400,19 Oct 2019
+435,Davangere,Davangere,Rice,Medium,FAQ,2800,3010,2930,29 May 2025
+436,Davangere,Davangere,Rice,Basumathi,FAQ,12000,14000,13000,28 Mar 2018
+437,Davangere,Davangere,Rice,Broken Rice,FAQ,2000,2530,2265,07 Jan 2025
+438,Davangere,Davangere,Rice,Medium,FAQ,2800,3550,3130,26 May 2025
+439,Davangere,Davangere,Rice,Broken Rice,FAQ,2670,2670,2670,10 Sep 2024
+440,Davangere,Davangere,Rice,Medium,FAQ,4400,4400,4400,28 Feb 2025
+441,Davangere,Davangere,Rice,Medium,FAQ,2425,3800,3290,05 May 2025
+442,Davangere,Davangere,Rice,Medium,FAQ,2000,3650,3155,06 Jun 2025
+443,Davangere,Davangere,Rice,Medium,FAQ,3200,3300,3250,27 Nov 2015
+444,Davangere,Davangere,Rice,Broken Rice,FAQ,2250,2250,2250,25 Apr 2025
+445,Davangere,Davangere,Rice,Medium,FAQ,3325,3325,3325,06 Jul 2024
+446,Davangere,Davangere,Rice,Basumathi,FAQ,11000,12000,11500,08 Mar 2019
+447,Davangere,Davangere,Rice,Medium,FAQ,2800,3010,2910,28 May 2025
+448,Davangere,Davangere,Rice,Medium,FAQ,3000,6970,4890,27 Mar 2025
+449,Davangere,Davangere,Rice,Medium,FAQ,3400,3500,3450,16 Oct 2015
+450,Davangere,Davangere,Rice,Medium,FAQ,2400,3500,3120,11 Jun 2025
+451,Davangere,Davangere,Rice,Medium,FAQ,3600,3700,3650,08 Jul 2016
+452,Davangere,Davangere,Rice,Medium,FAQ,3000,6950,4190,19 Apr 2025
+453,Davangere,Davangere,Rice,Basumathi,FAQ,15000,16000,15500,29 Apr 2016
+454,Davangere,Davangere,Rice,Broken Rice,FAQ,2150,2550,2350,09 Dec 2024
+455,Davangere,Davangere,Rice,Medium,FAQ,2700,6000,4350,20 Sep 2018
+456,Davangere,Davangere,Rice,Medium,FAQ,2900,6000,4450,28 Feb 2020
+457,Davangere,Davangere,Rice,Broken Rice,FAQ,1880,2260,2110,28 Apr 2025
+458,Davangere,Davangere,Rice,Basumathi,FAQ,12000,13000,12500,19 Jul 2019
+459,Davangere,Davangere,Rice,Broken Rice,FAQ,2400,2400,2400,30 Jan 2025
+460,Davangere,Davangere,Rice,Medium,FAQ,2700,2700,2700,19 Jul 2024
+461,Davangere,Davangere,Rice,Broken Rice,FAQ,2150,2150,2150,01 Jul 2025
+462,Davangere,Davangere,Rice,Basumathi,FAQ,11000,11300,11150,12 Jul 2019
+463,Davangere,Davangere,Rice,Medium,FAQ,2800,7005,4010,09 May 2025
+464,Davangere,Davangere,Rice,Medium,FAQ,3000,3850,3560,12 Feb 2025
+465,Davangere,Davangere,Rice,Medium,FAQ,2450,3500,3130,21 May 2025
+466,Davangere,Davangere,Rice,Medium,FAQ,2700,5500,4100,13 Jul 2018
+467,Davangere,Davangere,Rice,Medium,FAQ,2800,5900,4350,10 Jan 2020
+468,Davangere,Davangere,Rice,Medium,FAQ,2900,2900,2900,23 Sep 2024
+469,Davangere,Davangere,Rice,Medium,FAQ,2950,4700,3825,05 Oct 2024
+470,Davangere,Davangere,Rice,Medium,FAQ,2900,3000,2950,21 Aug 2015
+471,Davangere,Davangere,Rice,Medium,FAQ,3000,4000,3500,09 Jan 2025
+472,Davangere,Davangere,Rice,Medium,FAQ,2900,6000,4450,02 Nov 2018
+473,Davangere,Davangere,Rice,Broken Rice,FAQ,2513,2513,2513,02 Dec 2024
+474,Davangere,Davangere,Rice,Broken Rice,FAQ,2650,2650,2650,30 Jul 2024
+475,Davangere,Davangere,Rice,Medium,FAQ,2450,3800,3210,23 May 2025
+476,Davangere,Davangere,Rice,Medium,FAQ,3600,3700,3650,26 Aug 2016
+477,Davangere,Davangere,Rice,Medium,FAQ,3600,3700,3650,16 Dec 2016
+478,Davangere,Davangere,Rice,Broken Rice,FAQ,2200,2760,2218,19 May 2025
+479,Davangere,Davangere,Rice,Medium,FAQ,2800,2800,2800,27 Sep 2024
+480,Davangere,Davangere,Rice,Medium,FAQ,3058,4150,3604,29 Jan 2025
+481,Davangere,Davangere,Rice,Medium,FAQ,2700,6000,4350,26 Oct 2018
+482,Davangere,Davangere,Rice,Medium,FAQ,3000,4000,3500,10 Jan 2025
+483,Davangere,Davangere,Rice,Medium,FAQ,3200,3300,3250,18 Sep 2015
+484,Davangere,Davangere,Rice,Broken Rice,FAQ,2200,2200,2200,04 Jun 2025
+485,Davangere,Davangere,Rice,Medium,FAQ,2800,2800,2800,04 Jun 2025
+486,Davangere,Davangere,Rice,Medium,FAQ,2900,2900,2900,28 Aug 2024
+487,Davangere,Davangere,Rice,Medium,Local,2400,3580,3290,24 Jul 2025
+488,Davangere,Davangere,Rice,Medium,FAQ,2900,6000,4450,20 Feb 2020
+489,Davangere,Davangere,Rice,Broken Rice,FAQ,2400,2400,2400,31 May 2025
+490,Davangere,Davangere,Rice,Medium,FAQ,2000,5675,4210,27 Aug 2024
+491,Davangere,Davangere,Rice,Medium,FAQ,2700,6000,4350,07 Sep 2018
+492,Davangere,Davangere,Rice,Medium,FAQ,2700,6000,4350,17 Oct 2018
+493,Davangere,Davangere,Rice,Medium,FAQ,2400,3710,3210,20 Jun 2025
+494,Davangere,Davangere,Rice,Basumathi,FAQ,14000,15000,14500,13 Apr 2017
+495,Davangere,Davangere,Rice,Broken Rice,FAQ,2500,2500,2500,24 Jun 2024
+496,Davangere,Davangere,Rice,Broken Rice,FAQ,2350,2350,2350,07 Apr 2025
+497,Davangere,Davangere,Rice,Medium,FAQ,2600,2600,2600,26 Jun 2024
+498,Davangere,Davangere,Rice,Medium,FAQ,3400,3400,3400,02 Jul 2024
+499,Davangere,Davangere,Rice,Medium,FAQ,2600,2600,2600,12 Jul 2024
+500,Davangere,Davangere,Rice,Basumathi,FAQ,11000,12000,11500,20 Nov 2015
+501,Davangere,Davangere,Rice,Medium,FAQ,2700,2700,2700,26 Jul 2024
+502,Davangere,Davangere,Rice,Basumathi,FAQ,12000,13000,12500,09 Oct 2015
+503,Davangere,Davangere,Rice,Broken Rice,FAQ,2280,2280,2280,14 May 2025
+504,Davangere,Davangere,Rice,Medium,FAQ,3600,3700,3650,24 Mar 2017
+505,Davangere,Davangere,Rice,Medium,FAQ,3000,5500,4250,15 Sep 2017
+506,Davangere,Davangere,Rice,Medium,FAQ,3600,3700,3650,05 May 2017
+507,Davangere,Davangere,Rice,Medium,FAQ,2800,2800,2800,16 May 2025
+508,Davangere,Davangere,Rice,Medium,FAQ,3600,3700,3650,26 May 2017
+509,Davangere,Davangere,Rice,Medium,Local,2400,3565,3160,09 Jul 2025
+510,Davangere,Davangere,Rice,Medium,FAQ,2800,5107,3954,01 Aug 2024
+511,Davangere,Davangere,Rice,Basumathi,FAQ,11000,12000,11500,13 Mar 2020
+512,Davangere,Davangere,Rice,Medium,FAQ,2900,2900,2900,14 Nov 2024
+513,Davangere,Davangere,Rice,Medium,FAQ,2700,6000,4350,14 Sep 2018
+514,Davangere,Davangere,Rice,Broken Rice,FAQ,2385,2385,2385,05 Apr 2025
+515,Davangere,Davangere,Rice,Medium,FAQ,3600,3700,3650,21 Oct 2016
+516,Davangere,Davangere,Rice,Medium,FAQ,3010,7040,4010,15 May 2025
+517,Davangere,Davangere,Rice,Medium,FAQ,2900,3800,3350,29 Oct 2024
+518,Davangere,Davangere,Rice,Medium,FAQ,3000,3000,3000,16 Jan 2025
+519,Davangere,Davangere,Rice,Medium,FAQ,3000,5719,4360,02 Jan 2025
+520,Davangere,Davangere,Rice,Medium,FAQ,3600,3700,3650,16 Jun 2017
+521,Davangere,Davangere,Rice,Medium,FAQ,2900,3600,3300,08 Oct 2024
+522,Davangere,Davangere,Rice,Medium,FAQ,6020,6450,6211,20 Aug 2024
+523,Davangere,Davangere,Rice,Broken Rice,FAQ,2130,2500,2315,07 Oct 2024

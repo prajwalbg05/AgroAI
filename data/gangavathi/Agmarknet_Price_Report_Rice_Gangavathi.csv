@@ -1,0 +1,383 @@
+﻿Sl no.,District Name,Market Name,Commodity,Variety,Grade,Min Price (Rs./Quintal),Max Price (Rs./Quintal),Modal Price (Rs./Quintal),Price Date
+1,Koppal,Gangavathi(Karatagi),Rice,Broken Rice,FAQ,1700,1700,1700,21 Apr 2022
+2,Koppal,Gangavathi(Karatagi),Rice,Broken Rice,FAQ,1800,1800,1800,31 Mar 2022
+3,Koppal,Gangavathi(Karatagi),Rice,Broken Rice,FAQ,1900,1900,1900,08 Jun 2022
+4,Koppal,Gangavathi(Karatagi),Rice,Broken Rice,FAQ,1900,2440,2170,05 Sep 2017
+5,Koppal,Gangavathi(Karatagi),Rice,Broken Rice,FAQ,2050,2050,2050,09 Mar 2022
+6,Koppal,Gangavathi(Karatagi),Rice,Broken Rice,FAQ,2050,2150,2100,02 Mar 2022
+7,Koppal,Gangavathi(Karatagi),Rice,Broken Rice,FAQ,2099,2100,2099,24 Nov 2021
+8,Koppal,Gangavathi(Karatagi),Rice,Broken Rice,FAQ,2100,2100,2100,08 Dec 2021
+9,Koppal,Gangavathi(Karatagi),Rice,Broken Rice,FAQ,2100,2100,2100,30 Nov 2021
+10,Koppal,Gangavathi(Karatagi),Rice,Broken Rice,FAQ,2361,2361,2361,11 Dec 2015
+11,Koppal,Gangavathi(Karatagi),Rice,Broken Rice,FAQ,2361,2361,2361,14 Dec 2015
+12,Koppal,Gangavathi(Karatagi),Rice,Broken Rice,FAQ,2375,2570,2375,16 Dec 2015
+13,Koppal,Gangavathi(Karatagi),Rice,Broken Rice,FAQ,2380,2500,2440,07 Jun 2024
+14,Koppal,Gangavathi(Karatagi),Rice,Broken Rice,FAQ,2425,2451,2425,23 Dec 2015
+15,Koppal,Gangavathi(Karatagi),Rice,Broken Rice,FAQ,2425,2875,2570,18 Dec 2015
+16,Koppal,Gangavathi(Karatagi),Rice,Broken Rice,FAQ,2450,2450,2450,29 Dec 2015
+17,Koppal,Gangavathi(Karatagi),Rice,Broken Rice,FAQ,2451,2451,2451,30 Dec 2015
+18,Koppal,Gangavathi(Karatagi),Rice,Broken Rice,FAQ,2475,2475,2475,26 Dec 2015
+19,Koppal,Gangavathi(Karatagi),Rice,Broken Rice,FAQ,2524,2524,2524,15 Dec 2015
+20,Koppal,Gangavathi(Karatagi),Rice,Broken Rice,FAQ,2570,2570,2570,19 Dec 2015
+21,Koppal,Gangavathi(Karatagi),Rice,Broken Rice,FAQ,2774,2774,2774,22 Mar 2017
+22,Koppal,Gangavathi(Karatagi),Rice,Broken Rice,FAQ,2851,2851,2851,22 Dec 2015
+23,Koppal,Gangavathi(Karatagi),Rice,Broken Rice,FAQ,2875,2875,2875,21 Dec 2015
+24,Koppal,Gangavathi(Karatagi),Rice,Kachha Basmati,FAQ,1600,1600,1600,13 Sep 2017
+25,Koppal,Gangavathi(Karatagi),Rice,Kachha Basmati,FAQ,1650,1820,1670,06 Oct 2020
+26,Koppal,Gangavathi(Karatagi),Rice,Kachha Basmati,FAQ,1851,1851,1851,01 Dec 2017
+27,Koppal,Gangavathi(Karatagi),Rice,Kachha Basmati,FAQ,1949,1950,1949,05 Dec 2020
+28,Koppal,Gangavathi(Karatagi),Rice,Kachha Basmati,FAQ,1950,1950,1950,26 Feb 2021
+29,Koppal,Gangavathi(Karatagi),Rice,Kachha Basmati,FAQ,2000,2000,2000,02 Dec 2016
+30,Koppal,Gangavathi(Karatagi),Rice,Kachha Basmati,FAQ,2050,2150,2100,07 Aug 2020
+31,Koppal,Gangavathi(Karatagi),Rice,Kachha Basmati,FAQ,2050,2180,2119,10 Aug 2020
+32,Koppal,Gangavathi(Karatagi),Rice,Kachha Basmati,FAQ,2150,2300,2234,14 Jul 2020
+33,Koppal,Gangavathi(Karatagi),Rice,Kachha Basmati,FAQ,2215,2215,2215,19 May 2016
+34,Koppal,Gangavathi(Karatagi),Rice,Kachha Basmati,FAQ,2220,2220,2220,17 May 2016
+35,Koppal,Gangavathi(Karatagi),Rice,Kachha Basmati,FAQ,2254,2254,2254,21 May 2016
+36,Koppal,Gangavathi(Karatagi),Rice,Kachha Basmati,FAQ,2264,2264,2264,02 Jun 2016
+37,Koppal,Gangavathi(Karatagi),Rice,Kachha Basmati,FAQ,2270,2390,2330,28 Nov 2017
+38,Koppal,Gangavathi(Karatagi),Rice,Kachha Basmati,FAQ,2277,2277,2277,06 Sep 2016
+39,Koppal,Gangavathi(Karatagi),Rice,Kachha Basmati,FAQ,2310,2385,2347,17 Nov 2017
+40,Koppal,Gangavathi(Karatagi),Rice,Kachha Basmati,FAQ,2320,2340,2330,16 Oct 2017
+41,Koppal,Gangavathi(Karatagi),Rice,Kachha Basmati,FAQ,2323,2323,2323,25 Apr 2016
+42,Koppal,Gangavathi(Karatagi),Rice,Kachha Basmati,FAQ,2329,2329,2329,03 Oct 2016
+43,Koppal,Gangavathi(Karatagi),Rice,Kachha Basmati,FAQ,2345,2345,2345,16 Sep 2016
+44,Koppal,Gangavathi(Karatagi),Rice,Kachha Basmati,FAQ,2350,3500,3000,30 Jun 2021
+45,Koppal,Gangavathi(Karatagi),Rice,Kachha Basmati,FAQ,2359,2359,2359,03 Nov 2016
+46,Koppal,Gangavathi(Karatagi),Rice,Kachha Basmati,FAQ,2360,2460,2455,19 Aug 2017
+47,Koppal,Gangavathi(Karatagi),Rice,Kachha Basmati,FAQ,2367,2430,2398,30 Oct 2017
+48,Koppal,Gangavathi(Karatagi),Rice,Kachha Basmati,FAQ,2378,2378,2378,11 Nov 2016
+49,Koppal,Gangavathi(Karatagi),Rice,Kachha Basmati,FAQ,2425,2440,2426,18 Apr 2019
+50,Koppal,Gangavathi(Karatagi),Rice,Kachha Basmati,FAQ,2517,2517,2517,27 Jan 2018
+51,Koppal,Gangavathi(Karatagi),Rice,Kachha Basmati,FAQ,2560,2610,2573,01 Sep 2021
+52,Koppal,Gangavathi(Karatagi),Rice,Kachha Basmati,FAQ,2580,3360,3103,08 Feb 2018
+53,Koppal,Gangavathi(Karatagi),Rice,Kachha Basmati,FAQ,2590,2650,2608,09 Jan 2018
+54,Koppal,Gangavathi(Karatagi),Rice,Kachha Basmati,FAQ,2610,2768,2692,12 Oct 2021
+55,Koppal,Gangavathi(Karatagi),Rice,Kachha Basmati,FAQ,2620,2620,2620,19 Jan 2018
+56,Koppal,Gangavathi(Karatagi),Rice,Kachha Basmati,FAQ,2724,2803,2803,18 Mar 2017
+57,Koppal,Gangavathi(Karatagi),Rice,Kachha Basmati,FAQ,2850,3250,3250,13 Feb 2017
+58,Koppal,Gangavathi(Karatagi),Rice,Kachha Basmati,FAQ,2900,2900,2900,02 Feb 2017
+59,Koppal,Gangavathi(Karatagi),Rice,Kachha Basmati,FAQ,2900,2900,2900,14 Feb 2017
+60,Koppal,Gangavathi(Karatagi),Rice,Kachha Basmati,FAQ,2965,2965,2965,25 Aug 2016
+61,Koppal,Gangavathi(Karatagi),Rice,Kachha Basmati,FAQ,2975,2975,2975,26 Aug 2017
+62,Koppal,Gangavathi(Karatagi),Rice,Kachha Basmati,FAQ,3039,3039,3039,09 May 2017
+63,Koppal,Gangavathi(Karatagi),Rice,Kachha Basmati,FAQ,3125,3150,3147,31 Oct 2018
+64,Koppal,Gangavathi(Karatagi),Rice,Kachha Basmati,FAQ,3150,3150,3150,05 Nov 2018
+65,Koppal,Gangavathi(Karatagi),Rice,Kachha Basmati,FAQ,3150,3150,3150,07 Oct 2017
+66,Koppal,Gangavathi(Karatagi),Rice,Kachha Basmati,FAQ,3150,3150,3150,09 Oct 2017
+67,Koppal,Gangavathi(Karatagi),Rice,Kachha Basmati,FAQ,3220,3270,3270,22 Sep 2016
+68,Koppal,Gangavathi(Karatagi),Rice,Kachha Basmati,FAQ,3252,3335,3294,17 Oct 2017
+69,Koppal,Gangavathi(Karatagi),Rice,Kachha Basmati,FAQ,3320,3320,3320,02 Jan 2018
+70,Koppal,Gangavathi(Karatagi),Rice,Kachha Basmati,FAQ,3320,3320,3320,30 Dec 2017
+71,Koppal,Gangavathi(Karatagi),Rice,Kachha Basmati,FAQ,3500,3500,3500,14 Mar 2017
+72,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (New),FAQ,1840,2300,2131,29 Jul 2021
+73,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (New),FAQ,2000,2502,2411,10 Aug 2016
+74,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (New),FAQ,2020,2660,2335,19 Mar 2021
+75,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (New),FAQ,2020,3100,2461,08 Mar 2019
+76,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (New),FAQ,2024,2900,2312,28 Feb 2019
+77,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (New),FAQ,2060,2400,2227,31 Dec 2020
+78,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (New),FAQ,2100,2530,2157,05 Apr 2019
+79,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (New),FAQ,2100,2820,2345,13 Mar 2020
+80,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (New),FAQ,2100,3050,2298,25 Mar 2019
+81,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (New),FAQ,2100,3050,2436,23 Mar 2019
+82,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (New),FAQ,2160,2900,2438,27 Feb 2019
+83,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (New),FAQ,2225,2550,2320,14 Sep 2020
+84,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (New),FAQ,2350,2500,2403,28 Aug 2019
+85,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (New),FAQ,2350,2560,2436,23 Aug 2019
+86,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (New),FAQ,2360,2471,2435,31 Aug 2019
+87,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (New),FAQ,2500,2800,2560,01 Feb 2017
+88,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (New),FAQ,2595,2640,2610,07 Dec 2016
+89,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (New),FAQ,2600,2860,2700,05 Dec 2016
+90,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (New),FAQ,2620,2620,2620,01 Aug 2018
+91,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (New),FAQ,2635,2730,2671,05 May 2018
+92,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (New),FAQ,2640,2870,2850,06 Dec 2016
+93,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (New),FAQ,2790,2920,2850,03 Feb 2017
+94,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (New),FAQ,2790,3000,2850,21 Feb 2017
+95,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (New),FAQ,2800,3075,2800,27 May 2017
+96,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (New),FAQ,2830,2835,2830,18 Jul 2018
+97,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (New),FAQ,2864,2864,2864,02 Apr 2017
+98,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (New),FAQ,3079,3669,3342,03 May 2024
+99,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (New),FAQ,3200,3375,3319,25 Apr 2024
+100,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (New),FAQ,3220,3723,3530,07 Jun 2024
+101,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (New),FAQ,4200,4200,4200,08 Feb 2019
+102,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (New),FAQ,4351,4351,4351,15 Sep 2016
+103,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (New),FAQ,5225,5225,5225,23 Oct 2017
+104,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (New),FAQ,5248,5252,5250,28 Jan 2019
+105,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,1400,2017,1843,08 Mar 2019
+106,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,1500,2000,1834,19 Mar 2021
+107,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,1600,2000,1780,23 Mar 2019
+108,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,1600,2095,1927,25 Mar 2019
+109,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,1620,1806,1678,31 Dec 2020
+110,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,1640,2200,2061,14 Sep 2020
+111,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,1770,2232,1990,01 Feb 2017
+112,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,1800,2081,1960,13 Mar 2020
+113,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,1800,2250,2200,03 Feb 2017
+114,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,1814,2038,1934,27 Feb 2019
+115,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,1820,1820,1820,05 Apr 2019
+116,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,1866,2330,2242,31 Aug 2019
+117,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,1880,2445,2230,27 May 2017
+118,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,1890,2000,1950,28 Feb 2019
+119,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,1990,2500,2225,21 Feb 2017
+120,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,1995,2200,2100,28 Aug 2019
+121,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,2005,2180,2110,05 May 2018
+122,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,2020,2500,2334,13 Aug 2018
+123,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,2070,2400,2344,01 Aug 2018
+124,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,2100,2450,2349,18 Jul 2018
+125,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,2100,3750,3000,16 Aug 2019
+126,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,2138,2460,2300,02 Apr 2017
+127,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,2170,2620,2430,25 Apr 2024
+128,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,2250,2540,2370,09 Aug 2016
+129,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,2300,2510,2400,11 Aug 2016
+130,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,2300,2590,2445,06 Dec 2016
+131,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,2360,2580,2460,07 Dec 2016
+132,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,2380,3541,3169,23 Jul 2019
+133,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,2450,5250,3850,12 Feb 2019
+134,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,2460,2590,2525,05 Dec 2016
+135,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,2470,2600,2556,03 May 2024
+136,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,2601,4401,3300,21 Dec 2019
+137,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,2675,3225,2852,10 Oct 2018
+138,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,2725,2725,2725,08 Jun 2022
+139,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,2850,3225,3099,04 Sep 2018
+140,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,2877,2922,2880,22 Apr 2019
+141,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,2910,3125,3000,27 Aug 2019
+142,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,2925,2925,2925,02 Apr 2019
+143,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,2935,3675,2935,30 Mar 2019
+144,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,3050,3050,3050,01 Jun 2019
+145,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,3053,3451,3252,19 Oct 2019
+146,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,3078,3078,3078,27 Dec 2019
+147,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,3125,3125,3125,20 Oct 2018
+148,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,3125,3125,3125,30 Aug 2019
+149,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,3125,3165,3130,12 Sep 2019
+150,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,3125,4650,3887,13 Jun 2019
+151,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,3140,3270,3183,09 Oct 2019
+152,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,3140,3750,3508,27 Sep 2019
+153,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,3150,3750,3547,26 Jul 2019
+154,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,3156,3205,3156,28 Sep 2016
+155,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,3175,3541,3305,13 Aug 2019
+156,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,3180,3180,3180,23 Sep 2019
+157,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,3200,3725,3250,13 May 2019
+158,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,3200,3725,3478,14 May 2019
+159,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,3250,3400,3325,09 Jan 2018
+160,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,3300,3675,3350,20 Apr 2019
+161,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,3301,3451,3310,01 Oct 2019
+162,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,3325,3325,3325,19 Aug 2019
+163,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,3451,3451,3451,11 Oct 2019
+164,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,3451,3451,3451,22 Oct 2019
+165,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,3495,3620,3550,04 Jun 2019
+166,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,3500,3750,3650,19 Jul 2019
+167,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,3625,3625,3625,01 Feb 2019
+168,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,3625,3625,3625,25 Feb 2019
+169,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,3665,3800,3700,21 May 2024
+170,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,3675,3675,3675,11 Mar 2019
+171,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,3675,3675,3675,22 Jan 2025
+172,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,3725,3725,3725,06 Mar 2019
+173,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,3743,4185,3850,22 Apr 2024
+174,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,3750,3750,3750,20 May 2024
+175,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,3750,3751,3750,16 Sep 2019
+176,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,3750,4038,3890,01 Jun 2024
+177,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,3760,3760,3760,18 Jan 2025
+178,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,3780,3780,3780,13 May 2024
+179,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,3780,3780,3780,14 May 2024
+180,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,3780,3780,3780,17 May 2024
+181,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,3790,4161,4001,31 May 2024
+182,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,3800,4005,3850,06 Jun 2024
+183,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,3800,4080,3978,19 Apr 2024
+184,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,3810,3810,3810,03 Jun 2024
+185,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,3835,3835,3835,13 Jun 2024
+186,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,3835,4200,4018,29 Apr 2024
+187,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,3919,3921,3920,04 Sep 2019
+188,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,3970,4100,4033,26 Apr 2024
+189,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,3991,5000,4550,11 Jun 2024
+190,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4000,4000,4000,15 May 2024
+191,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4000,4300,4165,24 Jun 2024
+192,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4025,4025,4025,25 Jun 2024
+193,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4025,4335,4150,06 Jul 2024
+194,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4040,4040,4040,06 Apr 2024
+195,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4050,4050,4050,01 Jul 2024
+196,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4050,4050,4050,24 Apr 2024
+197,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4055,4070,4060,07 Jul 2022
+198,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4062,5950,4583,09 Oct 2024
+199,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4069,4069,4069,17 Apr 2024
+200,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4070,4070,4070,23 Sep 2024
+201,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4080,4080,4080,08 Apr 2024
+202,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4100,4175,4137,03 Oct 2024
+203,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4100,4255,4101,09 Apr 2019
+204,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4110,4110,4110,03 Jul 2024
+205,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4110,4150,4147,18 Jul 2024
+206,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4110,4385,4240,18 Oct 2024
+207,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4125,4125,4125,12 Aug 2024
+208,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4125,4175,4150,15 Jul 2024
+209,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4125,4340,4266,18 Jun 2024
+210,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4125,4450,4257,21 Jun 2024
+211,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4150,4175,4165,08 Jul 2024
+212,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4150,4275,4185,02 Jul 2024
+213,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4161,4161,4161,07 Jun 2024
+214,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4170,4170,4170,27 Jan 2025
+215,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4175,4175,4175,07 Oct 2024
+216,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4175,4175,4175,29 Jul 2024
+217,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4175,4384,4280,21 Oct 2024
+218,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4180,4180,4180,22 Jul 2024
+219,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4180,4180,4180,24 Jul 2024
+220,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4195,4195,4195,26 Jun 2024
+221,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4200,4200,4200,01 Aug 2024
+222,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4200,4200,4200,03 Aug 2024
+223,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4200,4200,4200,14 Feb 2019
+224,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4200,4200,4200,17 Aug 2024
+225,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4200,4200,4200,20 Aug 2024
+226,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4200,4200,4200,21 Aug 2024
+227,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4200,4200,4200,31 Jul 2024
+228,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4263,4263,4263,25 Jul 2024
+229,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4280,4280,4280,14 Jun 2024
+230,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4300,4300,4300,12 Jun 2024
+231,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4300,4300,4300,19 Jun 2024
+232,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4300,4775,4530,05 Jul 2024
+233,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4339,4340,4339,27 Mar 2023
+234,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4361,4361,4361,30 Jul 2024
+235,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4380,4380,4380,28 Oct 2024
+236,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4380,4380,4380,30 Oct 2024
+237,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4400,4400,4400,26 Sep 2024
+238,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4519,4553,4536,19 Nov 2024
+239,Koppal,Gangavathi(Karatagi),Rice,Pusa Basmati Raw (Old),FAQ,4960,4965,4960,25 Oct 2018
+240,Koppal,Gangavathi(Karatagi),Rice,Sadharan,FAQ,1700,1700,1700,06 Sep 2018
+241,Koppal,Gangavathi(Karatagi),Rice,Sona Coarse,FAQ,2378,4401,2378,18 Nov 2016
+242,Koppal,Gangavathi(Karatagi),Rice,Sona Fine,FAQ,2358,2363,2358,24 Oct 2016
+243,Koppal,Gangavathi(Karatagi),Rice,Sona Fine,FAQ,2410,2410,2410,12 Dec 2016
+244,Koppal,Gangavathi(Karatagi),Rice,Sona Fine,FAQ,2670,5250,5026,16 Jan 2019
+245,Koppal,Gangavathi(Karatagi),Rice,Sona Fine,FAQ,2920,2922,2921,16 May 2019
+246,Koppal,Gangavathi(Karatagi),Rice,Sona Fine,FAQ,2922,3725,3250,04 May 2019
+247,Koppal,Gangavathi(Karatagi),Rice,Sona Fine,FAQ,3125,3775,3570,15 Jun 2019
+248,Koppal,Gangavathi(Karatagi),Rice,Sona Fine,FAQ,3125,4650,3887,10 Jun 2019
+249,Koppal,Gangavathi(Karatagi),Rice,Sona Fine,FAQ,3150,3150,3150,21 Apr 2017
+250,Koppal,Gangavathi(Karatagi),Rice,Sona Fine,FAQ,3210,3259,3259,04 Nov 2016
+251,Koppal,Gangavathi(Karatagi),Rice,Sona Fine,FAQ,3290,3300,3295,05 Mar 2019
+252,Koppal,Gangavathi(Karatagi),Rice,Sona Fine,FAQ,3300,3675,3450,12 Mar 2019
+253,Koppal,Gangavathi(Karatagi),Rice,Sona Fine,FAQ,3344,3344,3344,27 Sep 2017
+254,Koppal,Gangavathi(Karatagi),Rice,Sona Fine,FAQ,3375,3500,3450,20 Mar 2019
+255,Koppal,Gangavathi(Karatagi),Rice,Sona Fine,FAQ,3665,3675,3670,15 Mar 2019
+256,Koppal,Gangavathi(Karatagi),Rice,Sona Fine,FAQ,3675,4225,3680,28 May 2019
+257,Koppal,Gangavathi(Karatagi),Rice,Sona Fine,FAQ,3720,3725,3723,10 May 2019
+258,Koppal,Gangavathi(Karatagi),Rice,Sona Fine,FAQ,3750,4700,4225,24 Jun 2019
+259,Koppal,Gangavathi(Karatagi),Rice,Sona Fine,FAQ,3970,4700,4331,26 May 2020
+260,Koppal,Gangavathi(Karatagi),Rice,Sona Fine,FAQ,4070,4080,4070,15 Apr 2024
+261,Koppal,Gangavathi(Karatagi),Rice,Sona Fine,FAQ,4125,4300,4125,21 Jul 2017
+262,Koppal,Gangavathi(Karatagi),Rice,Sona Fine,FAQ,4315,5571,5497,21 May 2020
+263,Koppal,Gangavathi(Karatagi),Rice,Sona Fine,FAQ,4850,5151,4959,04 Jun 2020
+264,Koppal,Gangavathi(Karatagi),Rice,Sona Fine,FAQ,6274,6274,6274,12 May 2017
+265,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,1350,1800,1375,09 Oct 2020
+266,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,1850,1900,1873,24 Aug 2020
+267,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,1850,1900,1875,26 Aug 2020
+268,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,1900,2440,2170,05 Sep 2017
+269,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,2050,2100,2075,17 Aug 2020
+270,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,2100,2150,2125,19 Aug 2020
+271,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,2100,2150,2125,29 Aug 2020
+272,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,2100,2160,2137,11 Aug 2020
+273,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,2133,2133,2133,27 Oct 2020
+274,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,2150,2180,2166,18 Jul 2020
+275,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,2150,2250,2150,24 Sep 2019
+276,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,2150,2250,2187,13 Jul 2020
+277,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,2150,2250,2200,10 Jul 2020
+278,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,2150,2250,2200,16 Jul 2020
+279,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,2150,2440,2295,09 Jul 2020
+280,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,2175,2451,2451,26 Dec 2015
+281,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,2277,2277,2277,12 Sep 2016
+282,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,2300,2300,2300,18 Jan 2016
+283,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,2367,2367,2367,08 Dec 2016
+284,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,2370,2401,2370,25 Jan 2016
+285,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,2378,2378,2378,24 Nov 2016
+286,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,2395,3120,2938,03 Dec 2019
+287,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,2400,2510,2455,05 Jun 2020
+288,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,2400,2850,2620,21 Jun 2019
+289,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,2401,2401,2401,20 Jan 2016
+290,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,2420,3190,2900,30 Jul 2019
+291,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,2421,2421,2421,21 Jan 2016
+292,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,2421,2431,2421,13 Jan 2016
+293,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,2425,2425,2425,16 Jan 2016
+294,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,2435,2800,2455,20 Feb 2016
+295,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,2450,2450,2450,10 Mar 2016
+296,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,2451,2451,2451,02 Mar 2016
+297,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,2451,2451,2451,03 Mar 2016
+298,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,2451,2451,2451,12 Feb 2016
+299,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,2451,2451,2451,16 Feb 2016
+300,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,2451,2451,2451,23 Jan 2016
+301,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,2451,2451,2451,26 Feb 2016
+302,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,2451,2451,2451,29 Feb 2016
+303,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,2455,2455,2455,15 Feb 2016
+304,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,2455,2455,2455,17 Feb 2016
+305,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,2475,2475,2475,19 Feb 2016
+306,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,2515,3200,3091,03 Oct 2019
+307,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,2520,3040,2780,13 Sep 2019
+308,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,2676,2676,2676,02 May 2017
+309,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,2690,2690,2690,23 Feb 2016
+310,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,2700,3225,2949,12 Sep 2018
+311,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,2759,2803,2759,16 Mar 2017
+312,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,2774,2799,2779,21 Mar 2017
+313,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,2915,2930,2925,18 Mar 2019
+314,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,2922,2922,2922,06 May 2019
+315,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,2925,2945,2930,19 Mar 2019
+316,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,2925,3050,2960,16 Mar 2019
+317,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,2925,3050,2960,21 Mar 2019
+318,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,2940,2940,2940,14 Sep 2018
+319,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,2960,3210,3030,14 Aug 2019
+320,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,3010,3200,3120,16 Dec 2019
+321,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,3039,3039,3039,09 May 2017
+322,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,3050,3052,3051,15 Oct 2018
+323,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,3050,3200,3140,20 Dec 2019
+324,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,3050,3725,3330,25 May 2019
+325,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,3055,3125,3097,03 Sep 2019
+326,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,3079,3081,3080,23 Aug 2019
+327,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,3090,3595,3254,30 Oct 2019
+328,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,3099,3101,3100,06 Dec 2019
+329,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,3099,3101,3100,10 Dec 2019
+330,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,3100,3200,3107,28 Nov 2019
+331,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,3109,3111,3110,28 Oct 2019
+332,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,3115,3125,3120,17 Sep 2019
+333,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,3119,3121,3120,05 Dec 2019
+334,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,3120,3124,3122,04 Dec 2018
+335,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,3125,3140,3129,06 Sep 2019
+336,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,3125,3775,3450,19 Jun 2019
+337,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,3149,3151,3150,26 Mar 2020
+338,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,3150,3150,3150,03 Apr 2020
+339,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,3150,3168,3163,29 Jul 2019
+340,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,3150,3210,3170,10 Mar 2020
+341,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,3170,3180,3175,05 Aug 2019
+342,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,3199,3201,3200,20 Apr 2020
+343,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,3200,3200,3200,17 Apr 2020
+344,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,3205,3210,3210,14 Oct 2016
+345,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,3300,3318,3309,18 Nov 2019
+346,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,3300,3750,3524,14 Oct 2019
+347,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,3300,3750,3571,16 Oct 2019
+348,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,3318,4600,3959,11 Nov 2019
+349,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,3334,3334,3334,04 Oct 2017
+350,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,3335,3335,3335,20 Sep 2017
+351,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,3450,3500,3499,11 Jan 2019
+352,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,3515,3515,3515,03 Jan 2019
+353,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,3515,3535,3526,08 Jan 2019
+354,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,3520,3520,3520,20 Mar 2017
+355,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,3541,3750,3626,01 Aug 2019
+356,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,3541,4140,3680,07 Aug 2019
+357,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,3594,3596,3595,23 Oct 2019
+358,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,3610,3610,3610,04 Jan 2019
+359,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,3620,3715,3664,17 Jun 2019
+360,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,3699,3701,3700,09 Sep 2019
+361,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,3700,3800,3700,31 Mar 2021
+362,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,3725,3725,3725,06 Jun 2019
+363,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,3749,3751,3750,17 Aug 2019
+364,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,3749,3751,3750,22 Aug 2019
+365,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,3810,3810,3810,18 Jan 2019
+366,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,4090,4090,4090,21 Nov 2017
+367,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,4098,4098,4098,16 May 2017
+368,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,4125,4125,4125,03 Jul 2017
+369,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,4150,4150,4150,03 Oct 2017
+370,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,4175,4175,4175,14 Sep 2017
+371,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,4295,4457,4295,20 Oct 2015
+372,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,4340,4340,4340,02 Aug 2017
+373,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,4340,4340,4340,04 Aug 2017
+374,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,4350,4700,4525,29 May 2020
+375,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,4600,4600,4600,17 Jul 2017
+376,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,4640,4640,4640,10 Aug 2017
+377,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,4650,4650,4650,04 Apr 2020
+378,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,4656,4656,4656,11 Oct 2017
+379,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,4700,4700,4700,23 Jun 2016
+380,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,5124,5126,5125,27 Apr 2020
+381,Koppal,Gangavathi(Karatagi),Rice,Sona Medium,FAQ,6274,6274,6274,12 May 2017
+382,Koppal,Gangavathi(Karatagi),Rice,Super Fine,FAQ,2922,3725,3300,29 Apr 2019

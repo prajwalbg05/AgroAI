@@ -1,0 +1,18 @@
+market,crop,forecast,error
+davangere,Cotton,5862.91552734375,
+davangere,Maize,1581.44580078125,
+davangere,Ragi,2185.861572265625,
+davangere,Rice,4491.63916015625,
+davangere,Tomato,1836.95654296875,
+gangavathi,Cotton,4812.09619140625,
+gangavathi,Maize,1655.473876953125,
+gangavathi,Ragi,,Model/scaler missing
+gangavathi,Rice,4541.525390625,
+HBhalli,Cotton,,Model/scaler missing
+HBhalli,Maize,1383.732177734375,
+HBhalli,Ragi,1807.6849365234375,
+HBhalli,Rice,,Model/scaler missing
+hospet,Maize,,Model/scaler missing
+hospet,Ragi,,Model/scaler missing
+hospet,Rice,,Model/scaler missing
+hospet,Tomato,1100.33935546875,

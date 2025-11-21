@@ -1,0 +1,11 @@
+{
+    "code-runner.runInTerminal": true,
+    "code-runner.saveFileBeforeRun": true,
+    "code-runner.executorMap": {
+        "html": "cmd /c start \"\" msedge \"${file}\""
+    },
+    "code-runner.executorMapByFileExtension": {
+        ".html": "cmd /c start \"\" msedge \"${file}\""
+    }
+}
+
