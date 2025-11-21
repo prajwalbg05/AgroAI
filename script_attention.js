@@ -1,8 +1,14 @@
 // AgroAI Crop Advisory Dashboard JavaScript - Attention-Enhanced Version
 
 // API Configuration - Updated to handle CORS and fallback gracefully
-const API_BASE_URL = 'http://localhost:4000';
-const ML_API_URL = 'http://localhost:5000'; // Attention-Enhanced LSTM API
+// Auto-detect API URLs based on environment
+const isProduction = window.location.hostname !== 'localhost' && window.location.hostname !== '127.0.0.1';
+const API_BASE_URL = isProduction 
+  ? window.location.origin  // Use same origin in production (Vercel)
+  : 'http://localhost:4000';
+const ML_API_URL = window.ML_API_URL || (isProduction 
+  ? 'https://your-ml-api.onrender.com'  // Update this with your ML API URL
+  : 'http://localhost:5000');
 const CHAT_API_URL = `${API_BASE_URL}/chat`;
 const CHAT_TIMEOUT_MS = 20000;
 

@@ -18,7 +18,10 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-const DATA_DIR = path.resolve(__dirname, '..', 'data');
+// Handle both local and Vercel deployment paths
+const DATA_DIR = process.env.VERCEL 
+  ? path.join(process.cwd(), 'data')
+  : path.resolve(__dirname, '..', 'data');
 const MARKETS = ['davangere', 'gangavathi', 'HBhalli', 'hospet'];
 const MARKET_CROPS = {
   davangere: ['Cotton', 'Maize', 'Ragi', 'Rice', 'Tomato'],
@@ -238,7 +241,13 @@ app.get('/api/weather', async (req, res) => {
   }
 });
 
-const PORT = process.env.PORT || 4000;
-app.listen(PORT, () => {
-  console.log(`Backend API listening on http://localhost:${PORT}`);
-});
+// Export app for Vercel serverless functions
+module.exports = app;
+
+// Only start server if running directly (not in Vercel)
+if (require.main === module) {
+  const PORT = process.env.PORT || 4000;
+  app.listen(PORT, () => {
+    console.log(`Backend API listening on http://localhost:${PORT}`);
+  });
+}
