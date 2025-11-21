@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: agroai-ml-api
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn app_attention:app --bind 0.0.0.0:$PORT
+    envVars:
+      - key: PORT
+        value: 5000
+      - key: CALIBRATION_ALPHA
+        value: 0.8
+      - key: CLAMP_PCT
+        value: 0.08
+
