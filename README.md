@@ -10,39 +10,35 @@ An intelligent farming companion for market insights and crop management with AI
 - 🗣️ Voice assistant with speech recognition
 - 🌍 Multi-language support (English, Hindi, Kannada, Telugu)
 
-## Deployment to Vercel
+## 🚀 Deployment
 
-### Step 1: Framework Selection
+### Complete Deployment Guide
 
-When deploying to Vercel:
+**👉 Start here: [COMPLETE_DEPLOYMENT_GUIDE.md](./COMPLETE_DEPLOYMENT_GUIDE.md)**
 
-1. **Framework Preset**: Choose **"Other"** or **"Static Site"** (since the frontend is pure HTML/CSS/JS)
-2. **Root Directory**: Leave as default (root of repository)
-3. **Build Command**: Leave empty (no build needed)
-4. **Output Directory**: Leave empty (serves from root)
+This comprehensive guide covers deploying the entire project:
+- ML API to Oracle Cloud Always Free (recommended)
+- Frontend + Backend to Vercel
+- Connecting everything together
+- Testing and troubleshooting
 
-### Step 2: Environment Variables
+### Quick Overview
 
-Add these in Vercel Dashboard → Settings → Environment Variables:
+1. **Deploy ML API** → Oracle Cloud Always Free (30 min)
+   - See: `ml_api/STEP_BY_STEP_DEPLOYMENT.md`
+   
+2. **Deploy Frontend + Backend** → Vercel (20 min)
+   - Framework: "Other" or "Static Site"
+   - Environment Variables: `GROQ_API_KEY`, `ML_API_URL`
 
-- `GROQ_API_KEY` - Your Groq API key for AI chat
-- `OPENWEATHER_API_KEY` - OpenWeather API key (optional, for weather features)
-- `ML_API_URL` - URL of your deployed ML API (see Step 3)
+3. **Connect & Test** → Verify everything works (10 min)
 
-### Step 3: Deploy ML API Separately
+### Alternative ML API Deployment
 
-The ML API (`ml_api/app_attention.py`) with TensorFlow models should be deployed separately on:
-- **Render** (recommended)
-- **Railway**
-- **Fly.io**
-
-After deployment, set `ML_API_URL` in Vercel environment variables to point to your ML API.
-
-### Step 4: Deploy
-
-1. Connect your GitHub repository to Vercel
-2. Vercel will automatically detect `vercel.json` and deploy
-3. Your app will be live at `https://your-project.vercel.app`
+If you prefer not to use Oracle Cloud:
+- **Render**: See `ml_api/DEPLOYMENT.md`
+- **Railway**: See `ml_api/DEPLOYMENT.md`
+- **Fly.io**: See `ml_api/DEPLOYMENT.md`
 
 ## Local Development
 
