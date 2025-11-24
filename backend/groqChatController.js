@@ -51,21 +51,33 @@ async function callGroq(messages) {
 	return resp.data;
 }
 
-async function handleToolCall(name, args) {
+async function handleToolCall(name, args, req) {
+	// Determine API base URL - use Vercel URL in production, localhost for dev
+	let apiBaseUrl = 'http://localhost:4000';
+	if (process.env.VERCEL_URL) {
+		apiBaseUrl = `https://${process.env.VERCEL_URL}`;
+	} else if (process.env.API_BASE_URL) {
+		apiBaseUrl = process.env.API_BASE_URL;
+	} else if (req && req.headers && req.headers.host) {
+		// Fallback: use request host (works in most cases)
+		const protocol = req.headers['x-forwarded-proto'] || 'https';
+		apiBaseUrl = `${protocol}://${req.headers.host}`;
+	}
+	
 	switch (name) {
 		case 'get_prices': {
-			const url = `http://localhost:4000/api/prices?market=${encodeURIComponent(args.market)}&crop=${encodeURIComponent(args.crop)}`;
+			const url = `${apiBaseUrl}/api/prices?market=${encodeURIComponent(args.market)}&crop=${encodeURIComponent(args.crop)}`;
 			const r = await axios.get(url);
 			return r.data;
 		}
 		case 'get_weather': {
-			const url = `http://localhost:4000/api/weather?district=${encodeURIComponent(args.district)}`;
+			const url = `${apiBaseUrl}/api/weather?district=${encodeURIComponent(args.district)}`;
 			const r = await axios.get(url);
 			return r.data;
 		}
 		case 'get_recommendations': {
 			const month = args.month || (new Date().getMonth() + 1);
-			const url = `http://localhost:4000/api/recommendations?market=${encodeURIComponent(args.market)}&month=${month}`;
+			const url = `${apiBaseUrl}/api/recommendations?market=${encodeURIComponent(args.market)}&month=${month}`;
 			const r = await axios.get(url);
 			return r.data;
 		}
@@ -93,7 +105,7 @@ async function groqChatController(req, res) {
 			// Execute tools and send results back to model
 			const toolOutputs = [];
 			for (const tc of assistantMsg.tool_calls) {
-				const resu = await handleToolCall(tc.function.name, JSON.parse(tc.function.arguments || '{}'));
+				const resu = await handleToolCall(tc.function.name, JSON.parse(tc.function.arguments || '{}'), req);
 				toolOutputs.push({ tool_call_id: tc.id, role: 'tool', content: JSON.stringify(resu) });
 			}
 			const followUp = await callGroq([

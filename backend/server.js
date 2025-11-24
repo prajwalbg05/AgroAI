@@ -146,7 +146,8 @@ app.get('/api/recommendations', async (req, res) => {
     if (!market) return res.status(400).json({ error: 'market is required' });
     const body = { task: 'crop_recommendation', market };
     if (month) body['month'] = Number(month);
-    const resp = await axios.post('http://127.0.0.1:5000/predict', body, { timeout: 15000 });
+    const mlApiUrl = process.env.ML_API_URL || 'http://127.0.0.1:5000';
+    const resp = await axios.post(`${mlApiUrl}/predict`, body, { timeout: 15000 });
     res.status(resp.status).json(resp.data);
   } catch (err) {
     if (err.response) return res.status(err.response.status).json(err.response.data);
@@ -175,7 +176,8 @@ app.post('/api/predict', async (req, res) => {
         // ignore, fallback to ML API defaults
       }
     }
-    const resp = await axios.post('http://127.0.0.1:5000/predict', body, { timeout: 15000 });
+    const mlApiUrl = process.env.ML_API_URL || 'http://127.0.0.1:5000';
+    const resp = await axios.post(`${mlApiUrl}/predict`, body, { timeout: 15000 });
     res.status(resp.status).json(resp.data);
   } catch (err) {
     if (err.response) {
