@@ -377,6 +377,29 @@ def health():
         'version': '2.0'
     })
 
+@app.route('/models', methods=['GET'])
+def list_models():
+    models = []
+    for market in MARKET_CROPS.keys():
+        for crop in MARKET_CROPS[market]:
+            mp = f"lstm_attention_{market}_{crop}.keras"
+            sp = f"lstm_attention_{market}_{crop}_scaler.pkl"
+            mp2 = f"lstm_enhanced_{market}_{crop}.keras"
+            sp2 = f"lstm_enhanced_{market}_{crop}_scaler.pkl"
+            mp3 = f"lstm_{market}_{crop}.keras"
+            sp3 = f"lstm_{market}_{crop}_scaler.pkl"
+            available = []
+            if os.path.exists(mp) and os.path.exists(sp):
+                available.append(mp)
+            if os.path.exists(mp2) and os.path.exists(sp2):
+                available.append(mp2)
+            if os.path.exists(mp3) and os.path.exists(sp3):
+                available.append(mp3)
+            if available:
+                models.append({'market': market, 'crop': crop, 'available_models': available})
+    return jsonify({'available': models})
+
+
 if __name__ == '__main__':
     print("Starting Attention-Enhanced LSTM API Server...")
     print("=" * 50)
