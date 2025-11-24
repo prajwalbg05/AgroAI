@@ -5,10 +5,11 @@ Complete file structure and organization of the AgroAI Agricultural AI Platform.
 ```
 F:\NEW CROP ADVISORY/
 │
-├── 📄 index.html                    # Main frontend application
-├── 📄 styles.css                    # Main stylesheet
-├── 📄 script_attention.js           # Frontend JavaScript (main logic)
-├── 📄 translations.js              # Multi-language translation system
+├── 📁 frontend/                    # Main frontend application bundle
+│   ├── 📄 index.html               # Application shell
+│   ├── 📄 styles.css               # Primary stylesheet
+│   ├── 📄 script_attention.js      # Frontend logic + data fetching
+│   └── 📄 translations.js          # Multi-language dictionary
 ├── 📄 README.md                     # Project documentation
 ├── 📄 COMPLETE_DEPLOYMENT_GUIDE.md  # Complete deployment instructions
 ├── 📄 PROJECT_STRUCTURE.md         # This file
@@ -202,37 +203,6 @@ F:\NEW CROP ADVISORY/
 │       ├── Agmarknet_Price_Report_Hospet_Tomato.csv
 │       └── Agmarknet_Price_Report_Hospete_Ragi.csv
 │
-├── 📁 frontend/                       # React Frontend (Alternative)
-│   ├── 📄 package.json
-│   ├── 📄 package-lock.json
-│   ├── 📄 vite.config.js              # Vite build configuration
-│   ├── 📄 tailwind.config.js          # Tailwind CSS configuration
-│   ├── 📄 postcss.config.js           # PostCSS configuration
-│   ├── 📄 eslint.config.js            # ESLint configuration
-│   ├── 📄 index.html                  # React app entry HTML
-│   ├── 📄 README.md
-│   │
-│   ├── 📁 public/
-│   │   ├── logo.svg
-│   │   └── vite.svg
-│   │
-│   └── 📁 src/
-│       ├── 📄 main.jsx                # React app entry point
-│       ├── 📄 App.jsx                 # Main React component
-│       ├── 📄 App.css                 # App styles
-│       ├── 📄 index.css               # Global styles
-│       │
-│       ├── 📁 components/
-│       │   ├── Home.jsx               # Home page component
-│       │   ├── LivePrices.jsx         # Live prices component
-│       │   ├── PricePrediction.jsx    # Price prediction component
-│       │   ├── CropAdvisory.jsx       # Crop advisory component
-│       │   └── ChatBot.jsx            # AI assistant component
-│       │
-│       └── 📁 assets/
-│           ├── react.svg
-│           └── styles.js              # Style utilities
-│
 └── 📁 Documentation/
     ├── CODE_REVIEW_GUIDE.md           # Code review guidelines
     ├── PRESENTATION_GUIDE.md          # Presentation guide
@@ -244,9 +214,14 @@ F:\NEW CROP ADVISORY/
 ## 📂 Directory Descriptions
 
 ### Root Level
-- **Frontend Files**: `index.html`, `styles.css`, `script_attention.js`, `translations.js`
+- **Frontend Folder**: `frontend/` (contains `index.html`, `styles.css`, `script_attention.js`, `translations.js`)
 - **Configuration**: `package.json`, `vercel.json`
 - **Documentation**: `README.md`, `COMPLETE_DEPLOYMENT_GUIDE.md`
+
+### `/frontend/`
+- Production-ready static SPA stored under `frontend/`
+- Components: `index.html` shell + `script_attention.js`, `styles.css`, `translations.js`
+- Zero build tooling—open `frontend/index.html` or host the folder via any static server
 
 ### `/api/`
 - Vercel serverless function wrapper for Express backend
@@ -267,20 +242,13 @@ F:\NEW CROP ADVISORY/
 - CSV files organized by market (city)
 - Used for training and fallback data
 
-### `/frontend/`
-- React-based alternative frontend (optional)
-- Uses Vite, Tailwind CSS
-- Not currently in use (main frontend is in root)
-
----
-
 ## 🔑 Key Files
 
 ### Frontend
-- `index.html` - Main application entry point
-- `script_attention.js` - All frontend logic (1984 lines)
-- `styles.css` - Application styling
-- `translations.js` - Multi-language support (4 languages)
+- `frontend/index.html` - Main application entry point
+- `frontend/script_attention.js` - All frontend logic (1984 lines)
+- `frontend/styles.css` - Application styling
+- `frontend/translations.js` - Multi-language support (4 languages)
 
 ### Backend
 - `backend/server.js` - Express API server
@@ -327,6 +295,7 @@ F:\NEW CROP ADVISORY/
 - `.env` files are gitignored (contains API keys)
 - `node_modules/` and `venv/` are gitignored
 - All model files are included in repository for deployment
+- Legacy Vite/Tailwind React frontend has been removed; the static root frontend is the single source of truth
 
 ---
 

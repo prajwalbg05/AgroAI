@@ -57,7 +57,7 @@ python app_attention.py
 ```
 
 ### Frontend
-Simply open `index.html` in a browser or use a local server.
+Serve the static assets inside `frontend/` (e.g., open `frontend/index.html` directly or host that folder with any static server).
 
 ## Project Structure
 
@@ -66,10 +66,7 @@ Simply open `index.html` in a browser or use a local server.
 ├── backend/          # Node.js Express backend
 ├── ml_api/           # Python Flask ML API
 ├── data/             # CSV price data
-├── index.html        # Main frontend file
-├── script_attention.js
-├── styles.css
-├── translations.js
+├── frontend/         # Production static frontend (index.html, styles, scripts)
 └── vercel.json       # Vercel configuration
 ```
 

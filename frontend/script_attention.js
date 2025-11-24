@@ -18,6 +18,7 @@ let ML_API_AVAILABLE = false;
 let chatSessionId = null;
 let chatRequestInFlight = false;
 let chatTypingIndicator = null;
+let predictionChartInstance = null;
 
 // Voice assistant state
 const SpeechRecognitionAPI = window.SpeechRecognition || window.webkitSpeechRecognition || null;
@@ -1268,6 +1269,11 @@ function generatePredictionChart(location, crop, period, predictedPrice = null) 
     const ctx = document.getElementById('prediction-chart');
     if (!ctx) return;
     
+    if (predictionChartInstance) {
+        predictionChartInstance.destroy();
+        predictionChartInstance = null;
+    }
+    
     const days = parseInt(period);
     const labels = [];
     const prices = [];
@@ -1280,7 +1286,7 @@ function generatePredictionChart(location, crop, period, predictedPrice = null) 
         prices.push(Math.max(basePrice, 1000));
     }
     
-    new Chart(ctx, {
+    predictionChartInstance = new Chart(ctx, {
         type: 'line',
         data: {
             labels: labels,
