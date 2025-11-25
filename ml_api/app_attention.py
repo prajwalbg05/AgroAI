@@ -399,6 +399,17 @@ def list_models():
                 models.append({'market': market, 'crop': crop, 'available_models': available})
     return jsonify({'available': models})
 
+@app.route('/pwd', methods=['GET'])
+def pwd():
+    import os
+    try:
+        cwd = os.getcwd()
+        files = sorted(os.listdir(cwd))
+    except Exception as e:
+        return {"error": str(e)}
+    return {"cwd": cwd, "files": files}
+
+
 
 if __name__ == '__main__':
     print("Starting Attention-Enhanced LSTM API Server...")
