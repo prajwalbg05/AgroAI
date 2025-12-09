@@ -3,13 +3,23 @@
 // API Configuration - Updated to handle CORS and fallback gracefully
 // Auto-detect API URLs based on environment
 const isProduction = window.location.hostname !== 'localhost' && window.location.hostname !== '127.0.0.1';
+
+// Detect file:// or unknown host and default to localhost for chat/backend
+const defaultBackend = 'http://localhost:4000';
+const resolvedOrigin = (window.location.origin === 'null' || window.location.origin === '' || window.location.origin === undefined)
+    ? defaultBackend
+    : window.location.origin;
+
 const API_BASE_URL = isProduction 
-  ? window.location.origin  // Use same origin in production (Vercel)
-  : 'http://localhost:4000';
+  ? resolvedOrigin  // Use same origin in production (Vercel) or fallback to localhost when opened via file://
+  : defaultBackend;
+
 const ML_API_URL = window.ML_API_URL || (isProduction 
   ? 'https://your-ml-api.onrender.com'  // Update this with your ML API URL
   : 'http://localhost:5000');
-const CHAT_API_URL = `${API_BASE_URL}/chat`;
+
+// Allow overriding chat API explicitly (e.g., window.CHAT_API_URL)
+const CHAT_API_URL = window.CHAT_API_URL || `${API_BASE_URL}/chat`;
 const CHAT_TIMEOUT_MS = 20000;
 
 // Check if APIs are available
@@ -92,8 +102,8 @@ document.addEventListener('DOMContentLoaded', function() {
             displayLivePrices(window.allPriceData);
         }
         
-        // Update simulation button text and title
-        const simButton = document.querySelector('button[title*="simulate"], button[title*="Simulate"]');
+        // Update simulation button text and title (use stable id instead of title search)
+        const simButton = document.getElementById('price-simulation-btn');
         if (simButton && window.languageManager) {
             simButton.innerHTML = '🎲 ' + window.languageManager.getTranslation('common.simulate');
             simButton.title = window.languageManager.getTranslation('common.simulate-tooltip');
@@ -264,6 +274,7 @@ function loadDashboardData() {
 // Add price simulation button for testing alerts
 function addPriceSimulationButton() {
     const button = document.createElement('button');
+    button.id = 'price-simulation-btn';
     button.type = 'button'; // Prevent form submission
     button.innerHTML = '🎲 ' + (window.languageManager ? window.languageManager.getTranslation('common.simulate') : 'Simulate Price Changes');
     button.style.cssText = `
@@ -809,8 +820,11 @@ function updateCropPricesForCity(city) {
         
         console.log(`Processing crop ${index + 1}: ${cropName}`);
         
-        if (priceElement && cityPriceData[cropName]) {
-            console.log(`Updating price for ${cropName} to ${cityPriceData[cropName].price}`);
+        const canonicalCrop = getCanonicalCropName(cropName);
+        const priceInfo = cityPriceData[canonicalCrop];
+        
+        if (priceElement && priceInfo) {
+            console.log(`Updating price for ${canonicalCrop} to ${priceInfo.price}`);
             
             // Add animation effect
             priceElement.style.transition = 'all 0.3s ease';
@@ -818,7 +832,7 @@ function updateCropPricesForCity(city) {
             priceElement.style.color = '#4ade80';
             
             // Update the price
-            priceElement.textContent = cityPriceData[cropName].price;
+            priceElement.textContent = priceInfo.price;
             
             // Reset animation
             setTimeout(() => {
@@ -826,7 +840,7 @@ function updateCropPricesForCity(city) {
                 priceElement.style.color = '#ffffff';
             }, 300);
         } else {
-            console.log(`No price data found for ${cropName} in ${city}`);
+            console.log(`No price data found for ${canonicalCrop} in ${city}`);
         }
     });
     
@@ -1436,6 +1450,55 @@ function showLoadingState() {
     }
 }
 
+function translateCropName(crop) {
+    const key = `crop.${(crop || '').toLowerCase()}`;
+    return window.languageManager ? window.languageManager.getTranslation(key) || crop : crop;
+}
+
+function translateSoilType(soilType) {
+    const key = `soil.${soilType || ''}`;
+    return window.languageManager ? window.languageManager.getTranslation(key) || soilType : soilType;
+}
+
+function translateIrrigationType(irrigation) {
+    const key = `irrigation.${irrigation || ''}`;
+    return window.languageManager ? window.languageManager.getTranslation(key) || irrigation : irrigation;
+}
+
+function translateConfidence(confidence) {
+    const normalized = (confidence || '').toLowerCase();
+    const map = {
+        'high': 'common.high',
+        'medium': 'common.medium',
+        'low': 'common.low'
+    };
+    const key = map[normalized];
+    return key && window.languageManager ? window.languageManager.getTranslation(key) : confidence;
+}
+
+function getLabel(key, fallback) {
+    return window.languageManager ? window.languageManager.getTranslation(key) || fallback : fallback;
+}
+
+function getCanonicalCropName(name) {
+    const normalized = (name || '').toLowerCase().trim();
+    const aliasMap = {
+        'Rice': ['rice', 'चावल', 'ಅಕ್ಕಿ', 'బియ్యం'],
+        'Maize': ['maize', 'मक्का', 'ಮೆಕ್ಕೆಜೋಳ', 'మొక్కజొన్న'],
+        'Cotton': ['cotton', 'कपास', 'ಹತ್ತಿ', 'పత్తి'],
+        'Tomato': ['tomato', 'टमाटर', 'ಟೊಮ್ಯಾಟೊ', 'టమాటా'],
+        'Ragi': ['ragi', 'रागी', 'ರಾಗಿ', 'రాగి']
+    };
+    
+    for (const [canonical, aliases] of Object.entries(aliasMap)) {
+        if (aliases.includes(normalized)) {
+            return canonical;
+        }
+    }
+    
+    return name;
+}
+
 function displayCropRecommendations(result, parameters) {
     const recommendationsContent = document.getElementById('recommendations-content');
     if (!recommendationsContent) return;
@@ -1443,6 +1506,13 @@ function displayCropRecommendations(result, parameters) {
     let html = '<div class="recommendations-header">';
     const aiPoweredText = window.languageManager ? window.languageManager.translate('advisory.ai-powered') : '🌱 AI-Powered Crop Recommendations';
     const basedOnText = window.languageManager ? window.languageManager.translate('advisory.based-on') : 'Based on your parameters and Attention-Enhanced LSTM analysis';
+    const suitabilityLabel = getLabel('advisory.suitability-score', 'Suitability Score');
+    const confidenceLabel = getLabel('advisory.confidence', 'Confidence');
+    const expectedYieldLabel = getLabel('advisory.expected-yield', 'Expected Yield');
+    const plantingLabel = getLabel('advisory.planting-time', 'Best Planting Time');
+    const suitableForLabel = getLabel('advisory.suitable-for', 'Suitable for');
+    const optimalPhLabel = getLabel('advisory.optimal-ph', 'Optimal pH range');
+    const irrigationCompatibleLabel = getLabel('advisory.irrigation-compatible', 'irrigation compatible');
     html += `<h4>${aiPoweredText}</h4>`;
     html += `<p>${basedOnText}</p>`;
     html += '</div>';
@@ -1450,31 +1520,36 @@ function displayCropRecommendations(result, parameters) {
     if (result.recommendations && result.recommendations.length > 0) {
         result.recommendations.forEach((rec, index) => {
             const score = Math.round(rec.probability * 100);
+            const translatedCrop = translateCropName(rec.crop);
+            const translatedSoil = translateSoilType(parameters.soilType);
+            const translatedIrrigation = translateIrrigationType(parameters.irrigation);
+            const translatedConfidence = translateConfidence(rec.confidence);
             html += `
                 <div class="crop-recommendation">
-                    <h4>${index + 1}. ${rec.crop}</h4>
+                    <h4>${index + 1}. ${translatedCrop}</h4>
                     <div class="crop-score">
-                        <span>Suitability Score</span>
+                        <span>${suitabilityLabel}</span>
                         <span>${score}%</span>
                     </div>
                     <div class="score-bar">
                         <div class="score-fill" style="width: ${score}%"></div>
                     </div>
                     <div class="crop-details">
-                        <p><strong>Confidence:</strong> ${rec.confidence}</p>
-                        <p><strong>Expected Yield:</strong> ${getYieldEstimate(rec.crop, parameters.area)}</p>
-                        <p><strong>Best Planting Time:</strong> ${getPlantingTime(rec.crop, parameters.season)}</p>
+                        <p><strong>${confidenceLabel}:</strong> ${translatedConfidence}</p>
+                        <p><strong>${expectedYieldLabel}:</strong> ${getYieldEstimate(rec.crop, parameters.area)}</p>
+                        <p><strong>${plantingLabel}:</strong> ${getPlantingTime(rec.crop, parameters.season)}</p>
                         <ul>
-                            <li>✅ Suitable for ${parameters.soilType} soil</li>
-                            <li>✅ Optimal pH range: ${getOptimalPh(rec.crop)}</li>
-                            <li>✅ ${parameters.irrigation} irrigation compatible</li>
+                            <li>✅ ${suitableForLabel} ${translatedSoil}</li>
+                            <li>✅ ${optimalPhLabel}: ${getOptimalPh(rec.crop)}</li>
+                            <li>✅ ${translatedIrrigation} ${irrigationCompatibleLabel}</li>
                         </ul>
                     </div>
                 </div>
             `;
         });
     } else {
-        html += '<div class="no-recommendations"><p>No specific recommendations available. Please try different parameters.</p></div>';
+        const noDataText = getLabel('common.no-data', 'No specific recommendations available. Please try different parameters.');
+        html += `<div class="no-recommendations"><p>${noDataText}</p></div>`;
     }
     
     recommendationsContent.innerHTML = html;
@@ -1488,29 +1563,42 @@ function displayMockCropRecommendations(parameters) {
     const mockRecommendations = generateMockRecommendations(parameters);
     
     let html = '<div class="recommendations-header">';
-    html += '<h4>🌱 AI-Powered Crop Recommendations</h4>';
-    html += '<p>Based on your parameters and Attention-Enhanced LSTM analysis</p>';
+    const aiPoweredText = window.languageManager ? window.languageManager.translate('advisory.ai-powered') : '🌱 AI-Powered Crop Recommendations';
+    const basedOnText = window.languageManager ? window.languageManager.translate('advisory.based-on') : 'Based on your parameters and Attention-Enhanced LSTM analysis';
+    const suitabilityLabel = getLabel('advisory.suitability-score', 'Suitability Score');
+    const confidenceLabel = getLabel('advisory.confidence', 'Confidence');
+    const expectedYieldLabel = getLabel('advisory.expected-yield', 'Expected Yield');
+    const plantingLabel = getLabel('advisory.planting-time', 'Best Planting Time');
+    const suitableForLabel = getLabel('advisory.suitable-for', 'Suitable for');
+    const optimalPhLabel = getLabel('advisory.optimal-ph', 'Optimal pH range');
+    const irrigationCompatibleLabel = getLabel('advisory.irrigation-compatible', 'irrigation compatible');
+    html += `<h4>${aiPoweredText}</h4>`;
+    html += `<p>${basedOnText}</p>`;
     html += '</div>';
     
     mockRecommendations.forEach((rec, index) => {
+        const translatedCrop = translateCropName(rec.crop);
+        const translatedSoil = translateSoilType(parameters.soilType);
+        const translatedIrrigation = translateIrrigationType(parameters.irrigation);
+        const translatedConfidence = translateConfidence(rec.confidence);
         html += `
             <div class="crop-recommendation">
-                <h4>${index + 1}. ${rec.crop}</h4>
+                <h4>${index + 1}. ${translatedCrop}</h4>
                 <div class="crop-score">
-                    <span>Suitability Score</span>
+                    <span>${suitabilityLabel}</span>
                     <span>${rec.score}%</span>
                 </div>
                 <div class="score-bar">
                     <div class="score-fill" style="width: ${rec.score}%"></div>
                 </div>
                 <div class="crop-details">
-                    <p><strong>Confidence:</strong> ${rec.confidence}</p>
-                    <p><strong>Expected Yield:</strong> ${rec.yield}</p>
-                    <p><strong>Best Planting Time:</strong> ${rec.plantingTime}</p>
+                    <p><strong>${confidenceLabel}:</strong> ${translatedConfidence}</p>
+                    <p><strong>${expectedYieldLabel}:</strong> ${rec.yield}</p>
+                    <p><strong>${plantingLabel}:</strong> ${rec.plantingTime}</p>
                     <ul>
-                        <li>✅ Suitable for ${parameters.soilType} soil</li>
-                        <li>✅ Optimal pH range: ${rec.optimalPh}</li>
-                        <li>✅ ${parameters.irrigation} irrigation compatible</li>
+                        <li>✅ ${suitableForLabel} ${translatedSoil}</li>
+                        <li>✅ ${optimalPhLabel}: ${rec.optimalPh}</li>
+                        <li>✅ ${translatedIrrigation} ${irrigationCompatibleLabel}</li>
                     </ul>
                 </div>
             </div>
@@ -1822,6 +1910,8 @@ async function sendMessage() {
     const message = input.value.trim();
     
     if (message) {
+        // Surface config info for easier debugging when backend is unreachable
+        console.log('Chat config → API_BASE_URL:', API_BASE_URL, 'CHAT_API_URL:', CHAT_API_URL);
         if (chatRequestInFlight) {
             addMessage('bot', 'Please wait a moment, I am still replying to your previous question.');
             return;
